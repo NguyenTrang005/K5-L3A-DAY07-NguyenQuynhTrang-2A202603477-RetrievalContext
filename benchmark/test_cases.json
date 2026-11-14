@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d7_test_01",
+    "split": "test",
+    "question": "Trong shaping, người huấn luyện củng cố điều gì trước khi đạt hành vi mục tiêu?"
+  },
+  {
+    "id": "d7_test_02",
+    "split": "test",
+    "question": "Điểm khác nhau về nguồn gốc giá trị củng cố giữa primary reinforcer và secondary reinforcer là gì?"
+  },
+  {
+    "id": "d7_test_03",
+    "split": "test",
+    "question": "Một người đã học được điều gì đó nhưng chỉ thể hiện ra hành vi khi có lý do cần dùng kiến thức ấy. Sách gọi dạng học này là gì?"
+  },
+  {
+    "id": "d7_test_04",
+    "split": "test",
+    "question": "Recall và recognition khác nhau như thế nào về việc sử dụng gợi ý hoặc gặp lại thông tin?"
+  },
+  {
+    "id": "d7_test_05",
+    "split": "test",
+    "question": "Flashbulb memories về sự kiện quan trọng có luôn giữ nguyên độ chính xác theo thời gian không?"
+  },
+  {
+    "id": "d7_test_06",
+    "split": "test",
+    "question": "Trong nghiên cứu Yogo và Fujihara (2008) được tài liệu nhắc đến, dung lượng trí nhớ ngắn hạn tăng chính xác bao nhiêu phần trăm sau năm tuần?"
+  },
+  {
+    "id": "d7_test_07",
+    "split": "test",
+    "question": "Theo mô tả thí nghiệm búp bê Bobo trong tài liệu, mỗi trẻ cần chính xác bao nhiêu lần quan sát người lớn trước khi bắt chước hành vi gây hấn?"
+  }
+]

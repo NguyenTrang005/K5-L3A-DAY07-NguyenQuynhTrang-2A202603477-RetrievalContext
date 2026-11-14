@@ -1,0 +1,17 @@
+{
+  "run_at_utc": "2026-11-14T09:18:28.039100+00:00",
+  "model": "deepseek-flash",
+  "base_url": "https://api.deepseek.com",
+  "neighbors": true,
+  "budget_chars": 6000,
+  "max_searches": 2,
+  "top_k": 3,
+  "retriever": "dense",
+  "strategy": "A",
+  "corpus_sha256": "922be37c16b06a407c507b15d8aed972298e18deb48b72ffff98822618f1d41e",
+  "cases_sha256": "59dfdef95666bee6033acbcca444991df65a17cc4d58d1ce910d31439b24488f",
+  "thinking": "disabled",
+  "temperature": 0,
+  "max_tokens": 1200,
+  "note": "Smoke test only; no gold supplied to agent, no semantic grading, no test evaluation. Rewritten queries logged separately from original query retrieval benchmark."
+}

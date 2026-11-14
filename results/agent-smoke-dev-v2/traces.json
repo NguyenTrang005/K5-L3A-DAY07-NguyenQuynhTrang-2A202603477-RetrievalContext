@@ -1,0 +1,1228 @@
+[
+  {
+    "status": "answered",
+    "answer": "Trong thí nghiệm của Pavlov, bột thịt là **kích thích không điều kiện (UCS)** — một kích thích gây ra phản ứng phản xạ ở sinh vật; còn phản ứng tiết nước bọt khi nhận bột thịt là **phản ứng không điều kiện (UCR)** — phản ứng tự nhiên (không học được) đối với một kích thích nhất định [ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1]. Tài liệu cũng nêu rằng tiết nước bọt khi thức ăn vào miệng là phản xạ, không liên quan đến học tập [9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170].",
+    "citations": [
+      "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+      "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170"
+    ],
+    "question": "Trong thí nghiệm Pavlov, bột thịt và phản ứng tiết nước bọt khi nhận bột thịt lần lượt đóng vai trò gì?",
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_00_jBmHsUc2s0HDCZcY9oDx1099",
+        "query": "Pavlov experiment meat powder unconditioned stimulus unconditioned response salivation",
+        "filter": null,
+        "results": [
+          {
+            "id": "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+            "text": " responses, or reflexes, and (2) conditioned\n(learned) responses.\nIn Pavlov’s experiments, the dogs salivated each time meat powder was presented to them. The meat powder\nin this situation was an unconditioned stimulus (UCS): a stimulus that elicits a reflexive response in an\norganism. The dogs’ salivation was an unconditioned response (UCR): a natural (unlearned) reaction to a\ngiven stimulus. Before conditioning, think of the dogs’ stimulus and response like this:\nIn classical conditioning, a neutral stimulus is presented immediately before an unconditioned stimulus.\nPavlov would sound a tone (like ringing a bell) and then give the dogs the meat powder (Figure 6.4). The tone\nwas the neutral stimulus (NS), which is a stimulus that does not naturally elicit a response. Prior to\nconditioning",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2400,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 184,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.6146857142448425
+          },
+          {
+            "id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+            "text": " When you finally got it fixed and started using it to open Tiger’s food again, Tiger\nwould remember the association between the can opener and her food—she would get excited and run to the\nkitchen when she heard the sound. The behavior of Pavlov’s dogs and Tiger illustrates a concept Pavlov called\nspontaneous recovery: the return of a previously extinguished conditioned response following a rest period\n(Figure 6.7).\nFIGURE 6.7 This is the curve of acquisition, extinction, and spontaneous recovery. The rising curve shows the\nconditioned response quickly getting stronger through the repeated pairing of the conditioned stimulus and the\nunconditioned stimulus (acquisition). Then the curve decreases, which shows how the conditioned response\nweakens when only the conditioned stimulus is present",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 189,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.576272189617157
+          },
+          {
+            "id": "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+            "text": "sistants' footsteps. Salivating to\nfood in the mouth is reflexive, so no learning is involved. However, dogs don’t naturally salivate at the sight of\nan empty bowl or the sound of footsteps.\nThese unusual responses intrigued Pavlov, and he wondered what accounted for what he called the dogs'\n“psychic secretions” (Pavlov, 1927). To explore this phenomenon in an objective manner, Pavlov designed a\nseries of carefully controlled experiments to see which stimuli would cause the dogs to salivate. He was able to\ntrain the dogs to salivate in response to stimuli that clearly had nothing to do with food, such as the sound of a\nbell, a light, and a touch on the leg. Through his experiments, Pavlov realized that an organism has two types of\nresponses to its environment: (1) unconditioned (unlearned)",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 184,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.5388439297676086
+          }
+        ],
+        "context": "[ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1 | https://openstax.org/details/books/psychology-2e | page 196]\n responses, or reflexes, and (2) conditioned\n(learned) responses.\nIn Pavlov’s experiments, the dogs salivated each time meat powder was presented to them. The meat powder\nin this situation was an unconditioned stimulus (UCS): a stimulus that elicits a reflexive response in an\norganism. The dogs’ salivation was an unconditioned response (UCR): a natural (unlearned) reaction to a\ngiven stimulus. Before conditioning, think of the dogs’ stimulus and response like this:\nIn classical conditioning, a neutral stimulus is presented immediately before an unconditioned stimulus.\nPavlov would sound a tone (like ringing a bell) and then give the dogs the meat powder (Figure 6.4). The tone\nwas the neutral stimulus (NS), which is a stimulus that does not naturally elicit a response. Prior to\nconditioning\n\n[6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb | https://openstax.org/details/books/psychology-2e | page 201]\n When you finally got it fixed and started using it to open Tiger’s food again, Tiger\nwould remember the association between the can opener and her food—she would get excited and run to the\nkitchen when she heard the sound. The behavior of Pavlov’s dogs and Tiger illustrates a concept Pavlov called\nspontaneous recovery: the return of a previously extinguished conditioned response following a rest period\n(Figure 6.7).\nFIGURE 6.7 This is the curve of acquisition, extinction, and spontaneous recovery. The rising curve shows the\nconditioned response quickly getting stronger through the repeated pairing of the conditioned stimulus and the\nunconditioned stimulus (acquisition). Then the curve decreases, which shows how the conditioned response\nweakens when only the conditioned stimulus is present\n\n[9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170 | https://openstax.org/details/books/psychology-2e | page 196]\nsistants' footsteps. Salivating to\nfood in the mouth is reflexive, so no learning is involved. However, dogs don’t naturally salivate at the sight of\nan empty bowl or the sound of footsteps.\nThese unusual responses intrigued Pavlov, and he wondered what accounted for what he called the dogs'\n“psychic secretions” (Pavlov, 1927). To explore this phenomenon in an objective manner, Pavlov designed a\nseries of carefully controlled experiments to see which stimuli would cause the dogs to salivate. He was able to\ntrain the dogs to salivate in response to stimuli that clearly had nothing to do with food, such as the sound of a\nbell, a light, and a touch on the leg. Through his experiments, Pavlov realized that an organism has two types of\nresponses to its environment: (1) unconditioned (unlearned)\n\n[1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e | https://openstax.org/details/books/psychology-2e | page 196]\n, the dogs did not salivate when they just heard the tone because the tone had no association for\nthe dogs.\nWhen Pavlov paired the tone with the meat powder over and over again, the previously neutral stimulus (the\ntone) also began to elicit salivation from the dogs. Thus, the neutral stimulus became the conditioned\nstimulus (CS), which is a stimulus that elicits a response after repeatedly being paired with an unconditioned\nstimulus. Eventually, the dogs began to salivate to the tone alone, just as they previously had salivated at the\nsound of the assistants’ footsteps. The behavior caused by the conditioned stimulus is called the conditioned\nresponse (CR). In the case of Pavlov’s dogs, they had learned to associate the tone (CS) with being fed, and they\nbegan to salivate (CR) in anticipa\n\n[1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a | https://openstax.org/details/books/psychology-2e | page 201]\nconditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and\nfinally no response. In classical conditioning terms, there is a gradual weakening and disappearance of the\nconditioned response.\nWhat happens when learning is not used for a while—when what was learned lies dormant? As we just\ndiscussed, Pavlov found that when he repeatedly presented the bell (conditioned stimulus) without the meat\npowder (unconditioned stimulus), extinction occurred; the dogs stopped salivating to the bell. However, after a\ncouple of hours of resting from this extinction training, the dogs again began to salivate when Pavlov rang the\nbell. What do you think would happen with Tiger’s behavior if your electric can opener broke, and you did not\nuse it for several months?\n\n[0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4 | https://openstax.org/details/books/psychology-2e | page 201]\ned (extinction). After a break or pause from conditioning, the\nconditioned response reappears (spontaneous recovery).\nOf course, these processes also apply in humans. For example, let’s say that every day when you walk to\ncampus, an ice cream truck passes your route. Day after day, you hear the truck’s music (neutral stimulus), so\nyou finally stop and purchase a chocolate ice cream bar. You take a bite (unconditioned stimulus) and then\nyour mouth waters (unconditioned response). This initial period of learning is known as acquisition, when you\nbegin to connect the neutral stimulus (the sound of the truck) and the unconditioned stimulus (the taste of the\nchocolate ice cream in your mouth). During acquisition, the conditioned response gets stronger and stronger\nthrough repeated pairings of t",
+        "context_chars": 5584,
+        "context_ids": [
+          "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+          "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+          "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+          "1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e",
+          "1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a",
+          "0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4"
+        ],
+        "selected_chunks": [
+          {
+            "id": "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+            "text": " responses, or reflexes, and (2) conditioned\n(learned) responses.\nIn Pavlov’s experiments, the dogs salivated each time meat powder was presented to them. The meat powder\nin this situation was an unconditioned stimulus (UCS): a stimulus that elicits a reflexive response in an\norganism. The dogs’ salivation was an unconditioned response (UCR): a natural (unlearned) reaction to a\ngiven stimulus. Before conditioning, think of the dogs’ stimulus and response like this:\nIn classical conditioning, a neutral stimulus is presented immediately before an unconditioned stimulus.\nPavlov would sound a tone (like ringing a bell) and then give the dogs the meat powder (Figure 6.4). The tone\nwas the neutral stimulus (NS), which is a stimulus that does not naturally elicit a response. Prior to\nconditioning",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2400,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 184,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.6146857142448425
+          },
+          {
+            "id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+            "text": " When you finally got it fixed and started using it to open Tiger’s food again, Tiger\nwould remember the association between the can opener and her food—she would get excited and run to the\nkitchen when she heard the sound. The behavior of Pavlov’s dogs and Tiger illustrates a concept Pavlov called\nspontaneous recovery: the return of a previously extinguished conditioned response following a rest period\n(Figure 6.7).\nFIGURE 6.7 This is the curve of acquisition, extinction, and spontaneous recovery. The rising curve shows the\nconditioned response quickly getting stronger through the repeated pairing of the conditioned stimulus and the\nunconditioned stimulus (acquisition). Then the curve decreases, which shows how the conditioned response\nweakens when only the conditioned stimulus is present",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 189,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.576272189617157
+          },
+          {
+            "id": "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+            "text": "sistants' footsteps. Salivating to\nfood in the mouth is reflexive, so no learning is involved. However, dogs don’t naturally salivate at the sight of\nan empty bowl or the sound of footsteps.\nThese unusual responses intrigued Pavlov, and he wondered what accounted for what he called the dogs'\n“psychic secretions” (Pavlov, 1927). To explore this phenomenon in an objective manner, Pavlov designed a\nseries of carefully controlled experiments to see which stimuli would cause the dogs to salivate. He was able to\ntrain the dogs to salivate in response to stimuli that clearly had nothing to do with food, such as the sound of a\nbell, a light, and a touch on the leg. Through his experiments, Pavlov realized that an organism has two types of\nresponses to its environment: (1) unconditioned (unlearned)",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 184,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.5388439297676086
+          },
+          {
+            "id": "1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e",
+            "text": ", the dogs did not salivate when they just heard the tone because the tone had no association for\nthe dogs.\nWhen Pavlov paired the tone with the meat powder over and over again, the previously neutral stimulus (the\ntone) also began to elicit salivation from the dogs. Thus, the neutral stimulus became the conditioned\nstimulus (CS), which is a stimulus that elicits a response after repeatedly being paired with an unconditioned\nstimulus. Eventually, the dogs began to salivate to the tone alone, just as they previously had salivated at the\nsound of the assistants’ footsteps. The behavior caused by the conditioned stimulus is called the conditioned\nresponse (CR). In the case of Pavlov’s dogs, they had learned to associate the tone (CS) with being fed, and they\nbegan to salivate (CR) in anticipa",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 3200,
+              "char_start": 2400,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 184,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            }
+          },
+          {
+            "id": "1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a",
+            "text": "conditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and\nfinally no response. In classical conditioning terms, there is a gradual weakening and disappearance of the\nconditioned response.\nWhat happens when learning is not used for a while—when what was learned lies dormant? As we just\ndiscussed, Pavlov found that when he repeatedly presented the bell (conditioned stimulus) without the meat\npowder (unconditioned stimulus), extinction occurred; the dogs stopped salivating to the bell. However, after a\ncouple of hours of resting from this extinction training, the dogs again began to salivate when Pavlov rang the\nbell. What do you think would happen with Tiger’s behavior if your electric can opener broke, and you did not\nuse it for several months?",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 800,
+              "char_start": 0,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 189,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            }
+          },
+          {
+            "id": "0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4",
+            "text": "ed (extinction). After a break or pause from conditioning, the\nconditioned response reappears (spontaneous recovery).\nOf course, these processes also apply in humans. For example, let’s say that every day when you walk to\ncampus, an ice cream truck passes your route. Day after day, you hear the truck’s music (neutral stimulus), so\nyou finally stop and purchase a chocolate ice cream bar. You take a bite (unconditioned stimulus) and then\nyour mouth waters (unconditioned response). This initial period of learning is known as acquisition, when you\nbegin to connect the neutral stimulus (the sound of the truck) and the unconditioned stimulus (the taste of the\nchocolate ice cream in your mouth). During acquisition, the conditioned response gets stronger and stronger\nthrough repeated pairings of t",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2400,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 189,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            }
+          }
+        ],
+        "candidate_count": 7,
+        "decisions": [
+          {
+            "id": "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+            "reason": "retrieved",
+            "seed_id": "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+            "reason": "retrieved",
+            "seed_id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+            "reason": "retrieved",
+            "seed_id": "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e",
+            "reason": "next",
+            "seed_id": "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a",
+            "reason": "previous",
+            "seed_id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4",
+            "reason": "next",
+            "seed_id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "5a6bebfc9052f65a76a29514483210ea1a4d6bfbbeeb3bdaa313a1ae796830ee",
+            "reason": "previous",
+            "seed_id": "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+            "selected": false,
+            "skip_reason": "budget"
+          }
+        ]
+      },
+      {
+        "event": "finish",
+        "tool_call_id": "call_00_UpQpoXDxUTPXJRcA06I16006",
+        "arguments": {
+          "status": "answered",
+          "answer": "Trong thí nghiệm của Pavlov, bột thịt là **kích thích không điều kiện (UCS)** — một kích thích gây ra phản ứng phản xạ ở sinh vật; còn phản ứng tiết nước bọt khi nhận bột thịt là **phản ứng không điều kiện (UCR)** — phản ứng tự nhiên (không học được) đối với một kích thích nhất định [ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1]. Tài liệu cũng nêu rằng tiết nước bọt khi thức ăn vào miệng là phản xạ, không liên quan đến học tập [9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170].",
+          "citations": [
+            "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+            "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170"
+          ]
+        }
+      }
+    ],
+    "model_calls": [
+      {
+        "turn": 0,
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 627,
+          "completion_tokens": 46,
+          "total_tokens": 673,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 627
+        },
+        "finish_reason": "tool_calls",
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "tool_calls": [
+            {
+              "index": 0,
+              "id": "call_00_jBmHsUc2s0HDCZcY9oDx1099",
+              "type": "function",
+              "function": {
+                "name": "search_documents",
+                "arguments": "{\"query\": \"Pavlov experiment meat powder unconditioned stimulus unconditioned response salivation\"}"
+              }
+            }
+          ]
+        },
+        "context_ids_sent": []
+      },
+      {
+        "turn": 1,
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 2490,
+          "completion_tokens": 368,
+          "total_tokens": 2858,
+          "prompt_tokens_details": {
+            "cached_tokens": 512
+          },
+          "prompt_cache_hit_tokens": 512,
+          "prompt_cache_miss_tokens": 1978
+        },
+        "finish_reason": "tool_calls",
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "tool_calls": [
+            {
+              "index": 0,
+              "id": "call_00_UpQpoXDxUTPXJRcA06I16006",
+              "type": "function",
+              "function": {
+                "name": "finish_answer",
+                "arguments": "{\"status\": \"answered\", \"answer\": \"Trong thí nghiệm của Pavlov, bột thịt là **kích thích không điều kiện (UCS)** — một kích thích gây ra phản ứng phản xạ ở sinh vật; còn phản ứng tiết nước bọt khi nhận bột thịt là **phản ứng không điều kiện (UCR)** — phản ứng tự nhiên (không học được) đối với một kích thích nhất định [ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1]. Tài liệu cũng nêu rằng tiết nước bọt khi thức ăn vào miệng là phản xạ, không liên quan đến học tập [9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170].\", \"citations\": [\"ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1\", \"9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170\"]}"
+              }
+            }
+          ]
+        },
+        "context_ids_sent": [
+          "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+          "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+          "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+          "1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e",
+          "1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a",
+          "0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4"
+        ]
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3117,
+      "completion_tokens": 414,
+      "total_tokens": 3531,
+      "prompt_cache_hit_tokens": 512,
+      "prompt_cache_miss_tokens": 2605
+    },
+    "search_count": 1,
+    "model_call_count": 2,
+    "context": "[ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1 | https://openstax.org/details/books/psychology-2e | page 196]\n responses, or reflexes, and (2) conditioned\n(learned) responses.\nIn Pavlov’s experiments, the dogs salivated each time meat powder was presented to them. The meat powder\nin this situation was an unconditioned stimulus (UCS): a stimulus that elicits a reflexive response in an\norganism. The dogs’ salivation was an unconditioned response (UCR): a natural (unlearned) reaction to a\ngiven stimulus. Before conditioning, think of the dogs’ stimulus and response like this:\nIn classical conditioning, a neutral stimulus is presented immediately before an unconditioned stimulus.\nPavlov would sound a tone (like ringing a bell) and then give the dogs the meat powder (Figure 6.4). The tone\nwas the neutral stimulus (NS), which is a stimulus that does not naturally elicit a response. Prior to\nconditioning\n\n[6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb | https://openstax.org/details/books/psychology-2e | page 201]\n When you finally got it fixed and started using it to open Tiger’s food again, Tiger\nwould remember the association between the can opener and her food—she would get excited and run to the\nkitchen when she heard the sound. The behavior of Pavlov’s dogs and Tiger illustrates a concept Pavlov called\nspontaneous recovery: the return of a previously extinguished conditioned response following a rest period\n(Figure 6.7).\nFIGURE 6.7 This is the curve of acquisition, extinction, and spontaneous recovery. The rising curve shows the\nconditioned response quickly getting stronger through the repeated pairing of the conditioned stimulus and the\nunconditioned stimulus (acquisition). Then the curve decreases, which shows how the conditioned response\nweakens when only the conditioned stimulus is present\n\n[9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170 | https://openstax.org/details/books/psychology-2e | page 196]\nsistants' footsteps. Salivating to\nfood in the mouth is reflexive, so no learning is involved. However, dogs don’t naturally salivate at the sight of\nan empty bowl or the sound of footsteps.\nThese unusual responses intrigued Pavlov, and he wondered what accounted for what he called the dogs'\n“psychic secretions” (Pavlov, 1927). To explore this phenomenon in an objective manner, Pavlov designed a\nseries of carefully controlled experiments to see which stimuli would cause the dogs to salivate. He was able to\ntrain the dogs to salivate in response to stimuli that clearly had nothing to do with food, such as the sound of a\nbell, a light, and a touch on the leg. Through his experiments, Pavlov realized that an organism has two types of\nresponses to its environment: (1) unconditioned (unlearned)\n\n[1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e | https://openstax.org/details/books/psychology-2e | page 196]\n, the dogs did not salivate when they just heard the tone because the tone had no association for\nthe dogs.\nWhen Pavlov paired the tone with the meat powder over and over again, the previously neutral stimulus (the\ntone) also began to elicit salivation from the dogs. Thus, the neutral stimulus became the conditioned\nstimulus (CS), which is a stimulus that elicits a response after repeatedly being paired with an unconditioned\nstimulus. Eventually, the dogs began to salivate to the tone alone, just as they previously had salivated at the\nsound of the assistants’ footsteps. The behavior caused by the conditioned stimulus is called the conditioned\nresponse (CR). In the case of Pavlov’s dogs, they had learned to associate the tone (CS) with being fed, and they\nbegan to salivate (CR) in anticipa\n\n[1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a | https://openstax.org/details/books/psychology-2e | page 201]\nconditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and\nfinally no response. In classical conditioning terms, there is a gradual weakening and disappearance of the\nconditioned response.\nWhat happens when learning is not used for a while—when what was learned lies dormant? As we just\ndiscussed, Pavlov found that when he repeatedly presented the bell (conditioned stimulus) without the meat\npowder (unconditioned stimulus), extinction occurred; the dogs stopped salivating to the bell. However, after a\ncouple of hours of resting from this extinction training, the dogs again began to salivate when Pavlov rang the\nbell. What do you think would happen with Tiger’s behavior if your electric can opener broke, and you did not\nuse it for several months?\n\n[0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4 | https://openstax.org/details/books/psychology-2e | page 201]\ned (extinction). After a break or pause from conditioning, the\nconditioned response reappears (spontaneous recovery).\nOf course, these processes also apply in humans. For example, let’s say that every day when you walk to\ncampus, an ice cream truck passes your route. Day after day, you hear the truck’s music (neutral stimulus), so\nyou finally stop and purchase a chocolate ice cream bar. You take a bite (unconditioned stimulus) and then\nyour mouth waters (unconditioned response). This initial period of learning is known as acquisition, when you\nbegin to connect the neutral stimulus (the sound of the truck) and the unconditioned stimulus (the taste of the\nchocolate ice cream in your mouth). During acquisition, the conditioned response gets stronger and stronger\nthrough repeated pairings of t",
+    "context_ids": [
+      "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+      "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+      "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+      "1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e",
+      "1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a",
+      "0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4"
+    ],
+    "context_chars": 5584,
+    "selected_chunks": [
+      {
+        "id": "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+        "text": " responses, or reflexes, and (2) conditioned\n(learned) responses.\nIn Pavlov’s experiments, the dogs salivated each time meat powder was presented to them. The meat powder\nin this situation was an unconditioned stimulus (UCS): a stimulus that elicits a reflexive response in an\norganism. The dogs’ salivation was an unconditioned response (UCR): a natural (unlearned) reaction to a\ngiven stimulus. Before conditioning, think of the dogs’ stimulus and response like this:\nIn classical conditioning, a neutral stimulus is presented immediately before an unconditioned stimulus.\nPavlov would sound a tone (like ringing a bell) and then give the dogs the meat powder (Figure 6.4). The tone\nwas the neutral stimulus (NS), which is a stimulus that does not naturally elicit a response. Prior to\nconditioning",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 196,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 184,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6146857142448425
+      },
+      {
+        "id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+        "text": " When you finally got it fixed and started using it to open Tiger’s food again, Tiger\nwould remember the association between the can opener and her food—she would get excited and run to the\nkitchen when she heard the sound. The behavior of Pavlov’s dogs and Tiger illustrates a concept Pavlov called\nspontaneous recovery: the return of a previously extinguished conditioned response following a rest period\n(Figure 6.7).\nFIGURE 6.7 This is the curve of acquisition, extinction, and spontaneous recovery. The rising curve shows the\nconditioned response quickly getting stronger through the repeated pairing of the conditioned stimulus and the\nunconditioned stimulus (acquisition). Then the curve decreases, which shows how the conditioned response\nweakens when only the conditioned stimulus is present",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 201,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 189,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.576272189617157
+      },
+      {
+        "id": "9371a9917f6027142b9a1d31653d4a86fa2a8da3f04967bc1b94f24693e53170",
+        "text": "sistants' footsteps. Salivating to\nfood in the mouth is reflexive, so no learning is involved. However, dogs don’t naturally salivate at the sight of\nan empty bowl or the sound of footsteps.\nThese unusual responses intrigued Pavlov, and he wondered what accounted for what he called the dogs'\n“psychic secretions” (Pavlov, 1927). To explore this phenomenon in an objective manner, Pavlov designed a\nseries of carefully controlled experiments to see which stimuli would cause the dogs to salivate. He was able to\ntrain the dogs to salivate in response to stimuli that clearly had nothing to do with food, such as the sound of a\nbell, a light, and a touch on the leg. Through his experiments, Pavlov realized that an organism has two types of\nresponses to its environment: (1) unconditioned (unlearned)",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 196,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 184,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5388439297676086
+      },
+      {
+        "id": "1da4864ff6c82bc8b9ed8efcaf489aa2b8b99b8a1003bc1e8adeb21df569828e",
+        "text": ", the dogs did not salivate when they just heard the tone because the tone had no association for\nthe dogs.\nWhen Pavlov paired the tone with the meat powder over and over again, the previously neutral stimulus (the\ntone) also began to elicit salivation from the dogs. Thus, the neutral stimulus became the conditioned\nstimulus (CS), which is a stimulus that elicits a response after repeatedly being paired with an unconditioned\nstimulus. Eventually, the dogs began to salivate to the tone alone, just as they previously had salivated at the\nsound of the assistants’ footsteps. The behavior caused by the conditioned stimulus is called the conditioned\nresponse (CR). In the case of Pavlov’s dogs, they had learned to associate the tone (CS) with being fed, and they\nbegan to salivate (CR) in anticipa",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 196,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 184,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        }
+      },
+      {
+        "id": "1aaf0e43b94fe5b1d1706539735e556987d9c00b8027a7cf45167c7cd982362a",
+        "text": "conditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and\nfinally no response. In classical conditioning terms, there is a gradual weakening and disappearance of the\nconditioned response.\nWhat happens when learning is not used for a while—when what was learned lies dormant? As we just\ndiscussed, Pavlov found that when he repeatedly presented the bell (conditioned stimulus) without the meat\npowder (unconditioned stimulus), extinction occurred; the dogs stopped salivating to the bell. However, after a\ncouple of hours of resting from this extinction training, the dogs again began to salivate when Pavlov rang the\nbell. What do you think would happen with Tiger’s behavior if your electric can opener broke, and you did not\nuse it for several months?",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 201,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 189,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        }
+      },
+      {
+        "id": "0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4",
+        "text": "ed (extinction). After a break or pause from conditioning, the\nconditioned response reappears (spontaneous recovery).\nOf course, these processes also apply in humans. For example, let’s say that every day when you walk to\ncampus, an ice cream truck passes your route. Day after day, you hear the truck’s music (neutral stimulus), so\nyou finally stop and purchase a chocolate ice cream bar. You take a bite (unconditioned stimulus) and then\nyour mouth waters (unconditioned response). This initial period of learning is known as acquisition, when you\nbegin to connect the neutral stimulus (the sound of the truck) and the unconditioned stimulus (the taste of the\nchocolate ice cream in your mouth). During acquisition, the conditioned response gets stronger and stronger\nthrough repeated pairings of t",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 201,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 189,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        }
+      }
+    ],
+    "budget_chars": 6000,
+    "neighbors": true,
+    "max_searches": 2,
+    "elapsed_ms": 2965.1451999961864,
+    "cost_usd": null,
+    "cost_note": "Actual tokens logged; USD cost not estimated without verified input/cache/output rates.",
+    "citation_check": "ID membership only; semantic support requires source review",
+    "query_id": "d7_dev_02",
+    "split": "dev"
+  },
+  {
+    "status": "abstain",
+    "answer": "Chưa đủ bằng chứng để trả lời. Các đoạn tài liệu hiện có chỉ khuyến nghị dùng \"distributed practice\" (học trải ra theo thời gian thay vì học dồn) và giải thích rằng việc học dồn có thể gây hại, nhưng không nêu bất kỳ con số phần trăm nào về mức tăng điểm thi của học giãn cách so với học dồn. Con số \"hơn 10%\" trong tài liệu liên quan đến việc nói to/mấp máy từ cần nhớ, không phải đến học giãn cách. Vì vậy tôi không thể đưa ra con số phần trăm được hỏi.",
+    "citations": [],
+    "question": "Theo phần tài liệu đã index, học giãn cách làm tăng chính xác bao nhiêu phần trăm điểm thi so với học dồn?",
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_00_AG7ZHrqBOj3av7ghDUzu7565",
+        "query": "spaced practice improves exam performance percentage compared to cramming",
+        "filter": null,
+        "results": [
+          {
+            "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "text": "elaborative rehearsal, it would be even\nmore beneficial to make the material you are trying to memorize personally meaningful to you. In other\nwords, make use of the self-reference effect. Write notes in your own words. Write definitions from the\ntext, and then rewrite them in your own words. Relate the material to something you have already learned\nfor another class, or think how you can apply the concepts to your own life. When you do this, you are\nbuilding a web of retrieval cues that will help you access the material when you want to remember it.\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate. In\naddition, cramming can cause t",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2400,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.5377748493351024
+          },
+          {
+            "id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "text": "ategies is to figure out what works best for\nyou.\nFIGURE 8.19 Memory techniques can be useful when studying for class. (credit: Barry Pousman)\n• Use elaborative rehearsal: In a famous article, Fergus Craik and Robert Lockhart (1972) discussed their\nbelief that information we process more deeply goes into long-term memory. Their theory is called levels\nof processing. If we want to remember a piece of information, we should think about it more deeply and\nlink it to other information and memories to make it more meaningful. For example, if we are trying to\nremember that the hippocampus is involved with memory processing, we might envision a hippopotamus\nwith excellent memory and then we could better remember the hippocampus.\n• Apply the self-reference effect: As you go through the process of ",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.45927181839943265
+          },
+          {
+            "id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "text": " studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2344,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 248,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.45821515223799314
+          }
+        ],
+        "context": "[7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a | https://openstax.org/details/books/psychology-2e | page 283]\nelaborative rehearsal, it would be even\nmore beneficial to make the material you are trying to memorize personally meaningful to you. In other\nwords, make use of the self-reference effect. Write notes in your own words. Write definitions from the\ntext, and then rewrite them in your own words. Relate the material to something you have already learned\nfor another class, or think how you can apply the concepts to your own life. When you do this, you are\nbuilding a web of retrieval cues that will help you access the material when you want to remember it.\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate. In\naddition, cramming can cause t\n\n[b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd | https://openstax.org/details/books/psychology-2e | page 283]\nategies is to figure out what works best for\nyou.\nFIGURE 8.19 Memory techniques can be useful when studying for class. (credit: Barry Pousman)\n• Use elaborative rehearsal: In a famous article, Fergus Craik and Robert Lockhart (1972) discussed their\nbelief that information we process more deeply goes into long-term memory. Their theory is called levels\nof processing. If we want to remember a piece of information, we should think about it more deeply and\nlink it to other information and memories to make it more meaningful. For example, if we are trying to\nremember that the hippocampus is involved with memory processing, we might envision a hippopotamus\nwith excellent memory and then we could better remember the hippocampus.\n• Apply the self-reference effect: As you go through the process of \n\n[8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458 | https://openstax.org/details/books/psychology-2e | page 260]\n studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org\n\n[9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d | https://openstax.org/details/books/psychology-2e | page 283]\nhe links between concepts to become so active that you get stuck in a link,\nand it prevents you from accessing the rest of the information that you learned.\n• Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions.\nOrganize and study your notes, and take practice quizzes/exams. Link the new information to other\ninformation you already know well.\n• Study efficiently: Students are great highlighters, but highlighting is not very efficient because students\nspend too much time studying the things they already learned. Instead of highlighting, use index cards.\nWrite the question on one side and the answer on the other side. When you study, separate your cards into\n8.4 • Ways to Enhance Memory 271\n\n[ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31 | https://openstax.org/details/books/psychology-2e | page 283]\ncan’t explain why this writing task works, but it does.\nWhat if you want to remember items you need to pick up at the store? Simply say them out loud to yourself. A\nseries of studies (MacLeod, Gopie, Hourihan, Neary, & Ozubko, 2010) found that saying a word out loud\nimproves your memory for the word because it increases the word’s distinctiveness. Feel silly, saying random\ngrocery items aloud? This technique works equally well if you just mouth the words. Using these techniques\nincreased participants’ memory for the words by more than 10%. These techniques can also be used to help\nyou study.\nHow to Study Effectively\nBased on the information presented in this chapter, here are some strategies and suggestions to help you hone\nyour study techniques (Figure 8.19). The key with any of these str\n\n[1b593bef07353a0200c804431a2659df3d2eb2d059f513e883a79a09ce0367fb | https://openstax.org/details/books/psychology-2e | page 260]\n (https://openstax.org/l/unexpectfact) to learn more.\nEncoding\nWe get information into our brains through a process called encoding, which is the input of information into\nthe memory system. Once we receive sensory information from the environment, our brains label or code it.\nWe organize the information with other similar information and connect new concepts to existing concepts.\nEncoding information occurs through automatic processing and effortful processing.\nIf someone asks you what you ate for lunch today, more than likely you could recall this information quite\neasily. This is known as automatic processing, or the encoding of details like time, space, frequency, and the\nmeaning of words. Automatic processing is usually done without any conscious awareness. Recalling the last\ntime you",
+        "context_chars": 5473,
+        "context_ids": [
+          "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+          "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+          "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+          "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+          "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31",
+          "1b593bef07353a0200c804431a2659df3d2eb2d059f513e883a79a09ce0367fb"
+        ],
+        "selected_chunks": [
+          {
+            "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "text": "elaborative rehearsal, it would be even\nmore beneficial to make the material you are trying to memorize personally meaningful to you. In other\nwords, make use of the self-reference effect. Write notes in your own words. Write definitions from the\ntext, and then rewrite them in your own words. Relate the material to something you have already learned\nfor another class, or think how you can apply the concepts to your own life. When you do this, you are\nbuilding a web of retrieval cues that will help you access the material when you want to remember it.\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate. In\naddition, cramming can cause t",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2400,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.5377748493351024
+          },
+          {
+            "id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "text": "ategies is to figure out what works best for\nyou.\nFIGURE 8.19 Memory techniques can be useful when studying for class. (credit: Barry Pousman)\n• Use elaborative rehearsal: In a famous article, Fergus Craik and Robert Lockhart (1972) discussed their\nbelief that information we process more deeply goes into long-term memory. Their theory is called levels\nof processing. If we want to remember a piece of information, we should think about it more deeply and\nlink it to other information and memories to make it more meaningful. For example, if we are trying to\nremember that the hippocampus is involved with memory processing, we might envision a hippopotamus\nwith excellent memory and then we could better remember the hippocampus.\n• Apply the self-reference effect: As you go through the process of ",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.45927181839943265
+          },
+          {
+            "id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "text": " studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2344,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 248,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.45821515223799314
+          },
+          {
+            "id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+            "text": "he links between concepts to become so active that you get stuck in a link,\nand it prevents you from accessing the rest of the information that you learned.\n• Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions.\nOrganize and study your notes, and take practice quizzes/exams. Link the new information to other\ninformation you already know well.\n• Study efficiently: Students are great highlighters, but highlighting is not very efficient because students\nspend too much time studying the things they already learned. Instead of highlighting, use index cards.\nWrite the question on one side and the answer on the other side. When you study, separate your cards into\n8.4 • Ways to Enhance Memory 271",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 3145,
+              "char_start": 2400,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            }
+          },
+          {
+            "id": "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31",
+            "text": "can’t explain why this writing task works, but it does.\nWhat if you want to remember items you need to pick up at the store? Simply say them out loud to yourself. A\nseries of studies (MacLeod, Gopie, Hourihan, Neary, & Ozubko, 2010) found that saying a word out loud\nimproves your memory for the word because it increases the word’s distinctiveness. Feel silly, saying random\ngrocery items aloud? This technique works equally well if you just mouth the words. Using these techniques\nincreased participants’ memory for the words by more than 10%. These techniques can also be used to help\nyou study.\nHow to Study Effectively\nBased on the information presented in this chapter, here are some strategies and suggestions to help you hone\nyour study techniques (Figure 8.19). The key with any of these str",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 800,
+              "char_start": 0,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            }
+          },
+          {
+            "id": "1b593bef07353a0200c804431a2659df3d2eb2d059f513e883a79a09ce0367fb",
+            "text": " (https://openstax.org/l/unexpectfact) to learn more.\nEncoding\nWe get information into our brains through a process called encoding, which is the input of information into\nthe memory system. Once we receive sensory information from the environment, our brains label or code it.\nWe organize the information with other similar information and connect new concepts to existing concepts.\nEncoding information occurs through automatic processing and effortful processing.\nIf someone asks you what you ate for lunch today, more than likely you could recall this information quite\neasily. This is known as automatic processing, or the encoding of details like time, space, frequency, and the\nmeaning of words. Automatic processing is usually done without any conscious awareness. Recalling the last\ntime you",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 248,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            }
+          }
+        ],
+        "candidate_count": 6,
+        "decisions": [
+          {
+            "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "reason": "retrieved",
+            "seed_id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "reason": "retrieved",
+            "seed_id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "reason": "retrieved",
+            "seed_id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+            "reason": "next",
+            "seed_id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31",
+            "reason": "previous",
+            "seed_id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "1b593bef07353a0200c804431a2659df3d2eb2d059f513e883a79a09ce0367fb",
+            "reason": "previous",
+            "seed_id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "selected": true,
+            "skip_reason": null
+          }
+        ]
+      },
+      {
+        "event": "search",
+        "tool_call_id": "call_00_ZOmBMpEnTZAQNHY9EQXQ7965",
+        "query": "distributed practice versus massed practice test scores percent higher experiment",
+        "filter": null,
+        "results": [
+          {
+            "id": "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+            "text": "r\nreinforcement\nHospital patient uses\npatient-controlled, doctor-\ntimed pain relief\nVariable\ninterval\nReinforcement is delivered at\nunpredictable time intervals (e.g.,\nafter 5, 7, 10, and 20 minutes).\nModerate yet steady\nresponse rate Checking social media\nFixed ratio\nReinforcement is delivered after a\npredictable number of responses (e.g.,\nafter 2, 4, 6, and 8 responses).\nHigh response rate\nwith pauses after\nreinforcement\nPiecework—factory worker\ngetting paid for every x\nnumber of items\nmanufactured\nVariable ratio\nReinforcement is delivered after an\nunpredictable number of responses\n(e.g., after 1, 4, 5, and 9 responses).\nHigh and steady\nresponse rate Gambling\nTABLE 6.3\n198 6 • Learning\nAccess for free at openstax.org",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 3128,
+              "char_start": 2400,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 198,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.4048142433166504
+          },
+          {
+            "id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+            "text": "he links between concepts to become so active that you get stuck in a link,\nand it prevents you from accessing the rest of the information that you learned.\n• Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions.\nOrganize and study your notes, and take practice quizzes/exams. Link the new information to other\ninformation you already know well.\n• Study efficiently: Students are great highlighters, but highlighting is not very efficient because students\nspend too much time studying the things they already learned. Instead of highlighting, use index cards.\nWrite the question on one side and the answer on the other side. When you study, separate your cards into\n8.4 • Ways to Enhance Memory 271",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 3145,
+              "char_start": 2400,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.38972005248069763
+          },
+          {
+            "id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "text": " studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2344,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 248,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.38324681620318857
+          }
+        ],
+        "context": "[7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a | https://openstax.org/details/books/psychology-2e | page 283]\nelaborative rehearsal, it would be even\nmore beneficial to make the material you are trying to memorize personally meaningful to you. In other\nwords, make use of the self-reference effect. Write notes in your own words. Write definitions from the\ntext, and then rewrite them in your own words. Relate the material to something you have already learned\nfor another class, or think how you can apply the concepts to your own life. When you do this, you are\nbuilding a web of retrieval cues that will help you access the material when you want to remember it.\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate. In\naddition, cramming can cause t\n\n[b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd | https://openstax.org/details/books/psychology-2e | page 283]\nategies is to figure out what works best for\nyou.\nFIGURE 8.19 Memory techniques can be useful when studying for class. (credit: Barry Pousman)\n• Use elaborative rehearsal: In a famous article, Fergus Craik and Robert Lockhart (1972) discussed their\nbelief that information we process more deeply goes into long-term memory. Their theory is called levels\nof processing. If we want to remember a piece of information, we should think about it more deeply and\nlink it to other information and memories to make it more meaningful. For example, if we are trying to\nremember that the hippocampus is involved with memory processing, we might envision a hippopotamus\nwith excellent memory and then we could better remember the hippocampus.\n• Apply the self-reference effect: As you go through the process of \n\n[8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458 | https://openstax.org/details/books/psychology-2e | page 260]\n studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org\n\n[e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7 | https://openstax.org/details/books/psychology-2e | page 210]\nr\nreinforcement\nHospital patient uses\npatient-controlled, doctor-\ntimed pain relief\nVariable\ninterval\nReinforcement is delivered at\nunpredictable time intervals (e.g.,\nafter 5, 7, 10, and 20 minutes).\nModerate yet steady\nresponse rate Checking social media\nFixed ratio\nReinforcement is delivered after a\npredictable number of responses (e.g.,\nafter 2, 4, 6, and 8 responses).\nHigh response rate\nwith pauses after\nreinforcement\nPiecework—factory worker\ngetting paid for every x\nnumber of items\nmanufactured\nVariable ratio\nReinforcement is delivered after an\nunpredictable number of responses\n(e.g., after 1, 4, 5, and 9 responses).\nHigh and steady\nresponse rate Gambling\nTABLE 6.3\n198 6 • Learning\nAccess for free at openstax.org\n\n[9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d | https://openstax.org/details/books/psychology-2e | page 283]\nhe links between concepts to become so active that you get stuck in a link,\nand it prevents you from accessing the rest of the information that you learned.\n• Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions.\nOrganize and study your notes, and take practice quizzes/exams. Link the new information to other\ninformation you already know well.\n• Study efficiently: Students are great highlighters, but highlighting is not very efficient because students\nspend too much time studying the things they already learned. Instead of highlighting, use index cards.\nWrite the question on one side and the answer on the other side. When you study, separate your cards into\n8.4 • Ways to Enhance Memory 271\n\n[ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31 | https://openstax.org/details/books/psychology-2e | page 283]\ncan’t explain why this writing task works, but it does.\nWhat if you want to remember items you need to pick up at the store? Simply say them out loud to yourself. A\nseries of studies (MacLeod, Gopie, Hourihan, Neary, & Ozubko, 2010) found that saying a word out loud\nimproves your memory for the word because it increases the word’s distinctiveness. Feel silly, saying random\ngrocery items aloud? This technique works equally well if you just mouth the words. Using these techniques\nincreased participants’ memory for the words by more than 10%. These techniques can also be used to help\nyou study.\nHow to Study Effectively\nBased on the information presented in this chapter, here are some strategies and suggestions to help you hone\nyour study techniques (Figure 8.19). The key with any of these str",
+        "context_chars": 5401,
+        "context_ids": [
+          "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+          "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+          "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+          "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+          "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+          "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31"
+        ],
+        "selected_chunks": [
+          {
+            "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "text": "elaborative rehearsal, it would be even\nmore beneficial to make the material you are trying to memorize personally meaningful to you. In other\nwords, make use of the self-reference effect. Write notes in your own words. Write definitions from the\ntext, and then rewrite them in your own words. Relate the material to something you have already learned\nfor another class, or think how you can apply the concepts to your own life. When you do this, you are\nbuilding a web of retrieval cues that will help you access the material when you want to remember it.\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate. In\naddition, cramming can cause t",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2400,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.5377748493351024
+          },
+          {
+            "id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "text": "ategies is to figure out what works best for\nyou.\nFIGURE 8.19 Memory techniques can be useful when studying for class. (credit: Barry Pousman)\n• Use elaborative rehearsal: In a famous article, Fergus Craik and Robert Lockhart (1972) discussed their\nbelief that information we process more deeply goes into long-term memory. Their theory is called levels\nof processing. If we want to remember a piece of information, we should think about it more deeply and\nlink it to other information and memories to make it more meaningful. For example, if we are trying to\nremember that the hippocampus is involved with memory processing, we might envision a hippopotamus\nwith excellent memory and then we could better remember the hippocampus.\n• Apply the self-reference effect: As you go through the process of ",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 1600,
+              "char_start": 800,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.45927181839943265
+          },
+          {
+            "id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "text": " studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 2344,
+              "char_start": 1600,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 248,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.45821515223799314
+          },
+          {
+            "id": "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+            "text": "r\nreinforcement\nHospital patient uses\npatient-controlled, doctor-\ntimed pain relief\nVariable\ninterval\nReinforcement is delivered at\nunpredictable time intervals (e.g.,\nafter 5, 7, 10, and 20 minutes).\nModerate yet steady\nresponse rate Checking social media\nFixed ratio\nReinforcement is delivered after a\npredictable number of responses (e.g.,\nafter 2, 4, 6, and 8 responses).\nHigh response rate\nwith pauses after\nreinforcement\nPiecework—factory worker\ngetting paid for every x\nnumber of items\nmanufactured\nVariable ratio\nReinforcement is delivered after an\nunpredictable number of responses\n(e.g., after 1, 4, 5, and 9 responses).\nHigh and steady\nresponse rate Gambling\nTABLE 6.3\n198 6 • Learning\nAccess for free at openstax.org",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 3128,
+              "char_start": 2400,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 198,
+              "chapter_title": "Learning",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.4048142433166504
+          },
+          {
+            "id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+            "text": "he links between concepts to become so active that you get stuck in a link,\nand it prevents you from accessing the rest of the information that you learned.\n• Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions.\nOrganize and study your notes, and take practice quizzes/exams. Link the new information to other\ninformation you already know well.\n• Study efficiently: Students are great highlighters, but highlighting is not very efficient because students\nspend too much time studying the things they already learned. Instead of highlighting, use index cards.\nWrite the question on one side and the answer on the other side. When you study, separate your cards into\n8.4 • Ways to Enhance Memory 271",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 3145,
+              "char_start": 2400,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            },
+            "score": 0.38972005248069763
+          },
+          {
+            "id": "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31",
+            "text": "can’t explain why this writing task works, but it does.\nWhat if you want to remember items you need to pick up at the store? Simply say them out loud to yourself. A\nseries of studies (MacLeod, Gopie, Hourihan, Neary, & Ozubko, 2010) found that saying a word out loud\nimproves your memory for the word because it increases the word’s distinctiveness. Feel silly, saying random\ngrocery items aloud? This technique works equally well if you just mouth the words. Using these techniques\nincreased participants’ memory for the words by more than 10%. These techniques can also be used to help\nyou study.\nHow to Study Effectively\nBased on the information presented in this chapter, here are some strategies and suggestions to help you hone\nyour study techniques (Figure 8.19). The key with any of these str",
+            "source_id": "openstax_psychology2e",
+            "source": "https://openstax.org/details/books/psychology-2e",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+              "char_end": 800,
+              "char_start": 0,
+              "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+              "printed_page": 271,
+              "chapter_title": "Memory",
+              "chunking_method": "fixed",
+              "extraction_status": "ok"
+            }
+          }
+        ],
+        "candidate_count": 8,
+        "decisions": [
+          {
+            "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "reason": "retrieved",
+            "seed_id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "reason": "retrieved",
+            "seed_id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "reason": "retrieved",
+            "seed_id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+            "reason": "retrieved",
+            "seed_id": "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+            "reason": "retrieved",
+            "seed_id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31",
+            "reason": "previous",
+            "seed_id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+            "selected": true,
+            "skip_reason": null
+          },
+          {
+            "id": "1b593bef07353a0200c804431a2659df3d2eb2d059f513e883a79a09ce0367fb",
+            "reason": "previous",
+            "seed_id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+            "selected": false,
+            "skip_reason": "budget"
+          },
+          {
+            "id": "1aeba4122fa243e65d003d482e0904077c613c44b2fc73ce1ef0562e4fd428ab",
+            "reason": "previous",
+            "seed_id": "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+            "selected": false,
+            "skip_reason": "budget"
+          }
+        ]
+      },
+      {
+        "event": "finish",
+        "tool_call_id": "call_00_RWaNc7io3CkhGcFIV15Z3242",
+        "arguments": {
+          "status": "abstain",
+          "answer": "Chưa đủ bằng chứng để trả lời. Các đoạn tài liệu hiện có chỉ khuyến nghị dùng \"distributed practice\" (học trải ra theo thời gian thay vì học dồn) và giải thích rằng việc học dồn có thể gây hại, nhưng không nêu bất kỳ con số phần trăm nào về mức tăng điểm thi của học giãn cách so với học dồn. Con số \"hơn 10%\" trong tài liệu liên quan đến việc nói to/mấp máy từ cần nhớ, không phải đến học giãn cách. Vì vậy tôi không thể đưa ra con số phần trăm được hỏi.",
+          "citations": []
+        }
+      }
+    ],
+    "model_calls": [
+      {
+        "turn": 0,
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 620,
+          "completion_tokens": 43,
+          "total_tokens": 663,
+          "prompt_tokens_details": {
+            "cached_tokens": 384
+          },
+          "prompt_cache_hit_tokens": 384,
+          "prompt_cache_miss_tokens": 236
+        },
+        "finish_reason": "tool_calls",
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "tool_calls": [
+            {
+              "index": 0,
+              "id": "call_00_AG7ZHrqBOj3av7ghDUzu7565",
+              "type": "function",
+              "function": {
+                "name": "search_documents",
+                "arguments": "{\"query\": \"spaced practice improves exam performance percentage compared to cramming\"}"
+              }
+            }
+          ]
+        },
+        "context_ids_sent": []
+      },
+      {
+        "turn": 1,
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 2416,
+          "completion_tokens": 44,
+          "total_tokens": 2460,
+          "prompt_tokens_details": {
+            "cached_tokens": 512
+          },
+          "prompt_cache_hit_tokens": 512,
+          "prompt_cache_miss_tokens": 1904
+        },
+        "finish_reason": "tool_calls",
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "tool_calls": [
+            {
+              "index": 0,
+              "id": "call_00_ZOmBMpEnTZAQNHY9EQXQ7965",
+              "type": "function",
+              "function": {
+                "name": "search_documents",
+                "arguments": "{\"query\": \"distributed practice versus massed practice test scores percent higher experiment\"}"
+              }
+            }
+          ]
+        },
+        "context_ids_sent": [
+          "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+          "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+          "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+          "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+          "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31",
+          "1b593bef07353a0200c804431a2659df3d2eb2d059f513e883a79a09ce0367fb"
+        ]
+      },
+      {
+        "turn": 2,
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 2484,
+          "completion_tokens": 243,
+          "total_tokens": 2727,
+          "prompt_tokens_details": {
+            "cached_tokens": 256
+          },
+          "prompt_cache_hit_tokens": 256,
+          "prompt_cache_miss_tokens": 2228
+        },
+        "finish_reason": "tool_calls",
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "tool_calls": [
+            {
+              "index": 0,
+              "id": "call_00_RWaNc7io3CkhGcFIV15Z3242",
+              "type": "function",
+              "function": {
+                "name": "finish_answer",
+                "arguments": "{\"status\": \"abstain\", \"answer\": \"Chưa đủ bằng chứng để trả lời. Các đoạn tài liệu hiện có chỉ khuyến nghị dùng \\\"distributed practice\\\" (học trải ra theo thời gian thay vì học dồn) và giải thích rằng việc học dồn có thể gây hại, nhưng không nêu bất kỳ con số phần trăm nào về mức tăng điểm thi của học giãn cách so với học dồn. Con số \\\"hơn 10%\\\" trong tài liệu liên quan đến việc nói to/mấp máy từ cần nhớ, không phải đến học giãn cách. Vì vậy tôi không thể đưa ra con số phần trăm được hỏi.\", \"citations\": []}"
+              }
+            }
+          ]
+        },
+        "context_ids_sent": [
+          "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+          "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+          "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+          "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+          "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+          "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31"
+        ]
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 5520,
+      "completion_tokens": 330,
+      "total_tokens": 5850,
+      "prompt_cache_hit_tokens": 1152,
+      "prompt_cache_miss_tokens": 4368
+    },
+    "search_count": 2,
+    "model_call_count": 3,
+    "context": "[7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a | https://openstax.org/details/books/psychology-2e | page 283]\nelaborative rehearsal, it would be even\nmore beneficial to make the material you are trying to memorize personally meaningful to you. In other\nwords, make use of the self-reference effect. Write notes in your own words. Write definitions from the\ntext, and then rewrite them in your own words. Relate the material to something you have already learned\nfor another class, or think how you can apply the concepts to your own life. When you do this, you are\nbuilding a web of retrieval cues that will help you access the material when you want to remember it.\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate. In\naddition, cramming can cause t\n\n[b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd | https://openstax.org/details/books/psychology-2e | page 283]\nategies is to figure out what works best for\nyou.\nFIGURE 8.19 Memory techniques can be useful when studying for class. (credit: Barry Pousman)\n• Use elaborative rehearsal: In a famous article, Fergus Craik and Robert Lockhart (1972) discussed their\nbelief that information we process more deeply goes into long-term memory. Their theory is called levels\nof processing. If we want to remember a piece of information, we should think about it more deeply and\nlink it to other information and memories to make it more meaningful. For example, if we are trying to\nremember that the hippocampus is involved with memory processing, we might envision a hippopotamus\nwith excellent memory and then we could better remember the hippocampus.\n• Apply the self-reference effect: As you go through the process of \n\n[8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458 | https://openstax.org/details/books/psychology-2e | page 260]\n studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org\n\n[e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7 | https://openstax.org/details/books/psychology-2e | page 210]\nr\nreinforcement\nHospital patient uses\npatient-controlled, doctor-\ntimed pain relief\nVariable\ninterval\nReinforcement is delivered at\nunpredictable time intervals (e.g.,\nafter 5, 7, 10, and 20 minutes).\nModerate yet steady\nresponse rate Checking social media\nFixed ratio\nReinforcement is delivered after a\npredictable number of responses (e.g.,\nafter 2, 4, 6, and 8 responses).\nHigh response rate\nwith pauses after\nreinforcement\nPiecework—factory worker\ngetting paid for every x\nnumber of items\nmanufactured\nVariable ratio\nReinforcement is delivered after an\nunpredictable number of responses\n(e.g., after 1, 4, 5, and 9 responses).\nHigh and steady\nresponse rate Gambling\nTABLE 6.3\n198 6 • Learning\nAccess for free at openstax.org\n\n[9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d | https://openstax.org/details/books/psychology-2e | page 283]\nhe links between concepts to become so active that you get stuck in a link,\nand it prevents you from accessing the rest of the information that you learned.\n• Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions.\nOrganize and study your notes, and take practice quizzes/exams. Link the new information to other\ninformation you already know well.\n• Study efficiently: Students are great highlighters, but highlighting is not very efficient because students\nspend too much time studying the things they already learned. Instead of highlighting, use index cards.\nWrite the question on one side and the answer on the other side. When you study, separate your cards into\n8.4 • Ways to Enhance Memory 271\n\n[ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31 | https://openstax.org/details/books/psychology-2e | page 283]\ncan’t explain why this writing task works, but it does.\nWhat if you want to remember items you need to pick up at the store? Simply say them out loud to yourself. A\nseries of studies (MacLeod, Gopie, Hourihan, Neary, & Ozubko, 2010) found that saying a word out loud\nimproves your memory for the word because it increases the word’s distinctiveness. Feel silly, saying random\ngrocery items aloud? This technique works equally well if you just mouth the words. Using these techniques\nincreased participants’ memory for the words by more than 10%. These techniques can also be used to help\nyou study.\nHow to Study Effectively\nBased on the information presented in this chapter, here are some strategies and suggestions to help you hone\nyour study techniques (Figure 8.19). The key with any of these str",
+    "context_ids": [
+      "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+      "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+      "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+      "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+      "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+      "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31"
+    ],
+    "context_chars": 5401,
+    "selected_chunks": [
+      {
+        "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+        "text": "elaborative rehearsal, it would be even\nmore beneficial to make the material you are trying to memorize personally meaningful to you. In other\nwords, make use of the self-reference effect. Write notes in your own words. Write definitions from the\ntext, and then rewrite them in your own words. Relate the material to something you have already learned\nfor another class, or think how you can apply the concepts to your own life. When you do this, you are\nbuilding a web of retrieval cues that will help you access the material when you want to remember it.\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate. In\naddition, cramming can cause t",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 283,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 271,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5377748493351024
+      },
+      {
+        "id": "b674f9f96a43e68311ce4f4468281ca7e452cbe00ccd616e634c9d14f09a9bfd",
+        "text": "ategies is to figure out what works best for\nyou.\nFIGURE 8.19 Memory techniques can be useful when studying for class. (credit: Barry Pousman)\n• Use elaborative rehearsal: In a famous article, Fergus Craik and Robert Lockhart (1972) discussed their\nbelief that information we process more deeply goes into long-term memory. Their theory is called levels\nof processing. If we want to remember a piece of information, we should think about it more deeply and\nlink it to other information and memories to make it more meaningful. For example, if we are trying to\nremember that the hippocampus is involved with memory processing, we might envision a hippopotamus\nwith excellent memory and then we could better remember the hippocampus.\n• Apply the self-reference effect: As you go through the process of ",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 283,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 271,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.45927181839943265
+      },
+      {
+        "id": "8a94a2d3ebabafaf0f31b139ec200ff270eeeaab854314eb725430fcea62c458",
+        "text": " studied for a test is another example of automatic processing. But what about the actual test material\nyou studied? It probably required a lot of work and attention on your part in order to encode that information.\nThis is known as effortful processing (Figure 8.3).\nFIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention to\nencode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to\ndrive, you can encode additional information about this skill automatically. (credit: Robert Couse-Baker)\nWhat are the most effective ways to ensure that important memories are well encoded? Even a simple\n248 8 • Memory\nAccess for free at openstax.org",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 260,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2344,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 248,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.45821515223799314
+      },
+      {
+        "id": "e1d11d0dd0c90de46bc8afd1802c385115717fafae9fe895b46dc3e192ef0cb7",
+        "text": "r\nreinforcement\nHospital patient uses\npatient-controlled, doctor-\ntimed pain relief\nVariable\ninterval\nReinforcement is delivered at\nunpredictable time intervals (e.g.,\nafter 5, 7, 10, and 20 minutes).\nModerate yet steady\nresponse rate Checking social media\nFixed ratio\nReinforcement is delivered after a\npredictable number of responses (e.g.,\nafter 2, 4, 6, and 8 responses).\nHigh response rate\nwith pauses after\nreinforcement\nPiecework—factory worker\ngetting paid for every x\nnumber of items\nmanufactured\nVariable ratio\nReinforcement is delivered after an\nunpredictable number of responses\n(e.g., after 1, 4, 5, and 9 responses).\nHigh and steady\nresponse rate Gambling\nTABLE 6.3\n198 6 • Learning\nAccess for free at openstax.org",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 210,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3128,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 198,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.4048142433166504
+      },
+      {
+        "id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+        "text": "he links between concepts to become so active that you get stuck in a link,\nand it prevents you from accessing the rest of the information that you learned.\n• Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions.\nOrganize and study your notes, and take practice quizzes/exams. Link the new information to other\ninformation you already know well.\n• Study efficiently: Students are great highlighters, but highlighting is not very efficient because students\nspend too much time studying the things they already learned. Instead of highlighting, use index cards.\nWrite the question on one side and the answer on the other side. When you study, separate your cards into\n8.4 • Ways to Enhance Memory 271",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 283,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3145,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 271,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.38972005248069763
+      },
+      {
+        "id": "ee1469033627d9167e7b1e34e2512c9ec4e408c145aa5f38376382aa711b1b31",
+        "text": "can’t explain why this writing task works, but it does.\nWhat if you want to remember items you need to pick up at the store? Simply say them out loud to yourself. A\nseries of studies (MacLeod, Gopie, Hourihan, Neary, & Ozubko, 2010) found that saying a word out loud\nimproves your memory for the word because it increases the word’s distinctiveness. Feel silly, saying random\ngrocery items aloud? This technique works equally well if you just mouth the words. Using these techniques\nincreased participants’ memory for the words by more than 10%. These techniques can also be used to help\nyou study.\nHow to Study Effectively\nBased on the information presented in this chapter, here are some strategies and suggestions to help you hone\nyour study techniques (Figure 8.19). The key with any of these str",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 283,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 271,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        }
+      }
+    ],
+    "budget_chars": 6000,
+    "neighbors": true,
+    "max_searches": 2,
+    "elapsed_ms": 4648.206300000311,
+    "cost_usd": null,
+    "cost_note": "Actual tokens logged; USD cost not estimated without verified input/cache/output rates.",
+    "citation_check": "ID membership only; semantic support requires source review",
+    "query_id": "d7_dev_16",
+    "split": "dev"
+  }
+]

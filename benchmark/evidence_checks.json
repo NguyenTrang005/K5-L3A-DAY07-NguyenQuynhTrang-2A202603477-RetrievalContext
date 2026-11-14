@@ -1,0 +1,293 @@
+[
+  {
+    "id": "d7_dev_01",
+    "page": 194,
+    "pdf_text_match": true,
+    "local_pdf_page": 2,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "learning is a relatively permanent change in behavior or knowledge that results from experience.",
+    "reference_chunk_ids": [
+      "590c315bf66748fbaea30676798c1e9a7cac3903ee2f858e16670947a12aae72",
+      "04925eea6292d4e33adc60647bb51a11ecaff66e6d2cee77cce6fe32fe73d152"
+    ],
+    "crosses_chunk_boundary": true
+  },
+  {
+    "id": "d7_dev_02",
+    "page": 196,
+    "pdf_text_match": true,
+    "local_pdf_page": 4,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "The meat powder\nin this situation was an unconditioned stimulus (UCS): a stimulus that elicits a reflexive response in an\norganism. The dogs’ salivation was an unconditioned response (UCR): a natural (unlearned) reaction to a\ngiven stimulus.",
+    "reference_chunk_ids": [
+      "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_03",
+    "page": 200,
+    "pdf_text_match": true,
+    "local_pdf_page": 8,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Extinction is the decrease in the conditioned response when the\nunconditioned stimulus is no longer presented with the conditioned stimulus.",
+    "reference_chunk_ids": [
+      "6a7625bd1c274340a6f45aad05ef615ad92b96fca858dc527e26478a9ea06338"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_04",
+    "page": 201,
+    "pdf_text_match": true,
+    "local_pdf_page": 9,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "spontaneous recovery: the return of a previously extinguished conditioned response following a rest period",
+    "reference_chunk_ids": [
+      "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_05",
+    "page": 202,
+    "pdf_text_match": true,
+    "local_pdf_page": 10,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "When an organism learns\nto respond differently to various stimuli that are similar, it is called stimulus discrimination.",
+    "reference_chunk_ids": [
+      "2ba192cd053c861e059d73d251e718f4d519570f4a8b80bfa3209f3bda5fbe76",
+      "304626c879221d4413d4a313726d7f6fe5f9ef7325429cf31fb98d2cd783baed"
+    ],
+    "crosses_chunk_boundary": true
+  },
+  {
+    "id": "d7_dev_06",
+    "page": 206,
+    "pdf_text_match": true,
+    "local_pdf_page": 14,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "In negative reinforcement, an undesirable stimulus is removed to increase a behavior.",
+    "reference_chunk_ids": [
+      "49884c3770190441baf6068fd7adea785e01137d440bb34e6b2b42cf6fc896ac",
+      "fb8c44ce1fe9449aa7a68ea4c828984a8c8c8f4b3584b463628b8186a5b37ad0"
+    ],
+    "crosses_chunk_boundary": true
+  },
+  {
+    "id": "d7_dev_07",
+    "page": 206,
+    "pdf_text_match": true,
+    "local_pdf_page": 14,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "In positive punishment, you add an undesirable stimulus\nto decrease a behavior.",
+    "reference_chunk_ids": [
+      "c684632dce8f8ebc95fad71b9f50267013923da9eab37c397f743d3a01360862"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_08",
+    "page": 211,
+    "pdf_text_match": true,
+    "local_pdf_page": 19,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Among the reinforcement schedules, variable ratio is the most productive and the most resistant to extinction.",
+    "reference_chunk_ids": [
+      "c218cc5bab69f1c805faebc8d8b5771b20bc51b5fc8d4176923a27e4944d40a1"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_09",
+    "page": 216,
+    "pdf_text_match": true,
+    "local_pdf_page": 24,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Bandura identified three kinds of models: live, verbal, and symbolic.",
+    "reference_chunk_ids": [
+      "d7e2178f3435f515203c777cb5b68c26abd8eff58cc904a8052beac14a68e41f"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_10",
+    "page": 260,
+    "pdf_text_match": true,
+    "local_pdf_page": 28,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "FIGURE 8.2 Encoding involves the input of information into the memory system. Storage is the retention of the\nencoded information. Retrieval, or getting the information out of memory and back into awareness, is the third\nfunction.",
+    "reference_chunk_ids": [
+      "8bac06479c68682cb096430904fc4e85e3cfacfff31cba7a7aba43cd7b4c446a"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_11",
+    "page": 261,
+    "pdf_text_match": true,
+    "local_pdf_page": 29,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "The encoding of words and their meaning is known as semantic encoding.",
+    "reference_chunk_ids": [
+      "a2cbb764a7dbd380e8e6972d525e8eeabd8b95ce8d3d4d319ce05528b9deaf27"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_12",
+    "page": 262,
+    "pdf_text_match": true,
+    "local_pdf_page": 30,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "In order for a memory to go into storage (i.e., long-term memory), it has to pass through three distinct stages:\nSensory Memory, Short-Term Memory, and finally Long-Term Memory.",
+    "reference_chunk_ids": [
+      "63c43b47cb3b5e579ffa7cacb8f078f88afa11a0b90739937ca0f500b045485f"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_13",
+    "page": 264,
+    "pdf_text_match": true,
+    "local_pdf_page": 32,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Explicit memory is sometimes referred to as declarative memory, because it can be put into\nwords. Explicit memory is divided into episodic memory and semantic memory.",
+    "reference_chunk_ids": [
+      "f24c3f8b9e4f8d50b5281119cdb4dcc013c6c82a05c22f4640b7724450c7ff06"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_dev_14",
+    "page": 280,
+    "pdf_text_match": true,
+    "local_pdf_page": 48,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "These are examples of proactive interference: when old information hinders the recall of newly learned\ninformation. Retroactive interference happens when information learned more recently hinders the recall of\nolder information.",
+    "reference_chunk_ids": [
+      "4f800e1fc0ef0fb4dee9f49b465e5e67fa1aa649393955b241784e2675a0889d",
+      "2fe09a87164de258f0e1c9957712d50c247d3716cbfef1e66fa1c19222a40051"
+    ],
+    "crosses_chunk_boundary": true
+  },
+  {
+    "id": "d7_dev_15",
+    "page": 283,
+    "pdf_text_match": true,
+    "local_pdf_page": 51,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate.",
+    "reference_chunk_ids": [
+      "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_test_01",
+    "page": 207,
+    "pdf_text_match": true,
+    "local_pdf_page": 15,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Instead of rewarding\nonly the target behavior, in shaping, we reward successive approximations of a target behavior.",
+    "reference_chunk_ids": [
+      "88340d9155ee35e309a8ba85b31b2b53a7ef13972684a5eb69ee8b2a90971e61"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_test_02",
+    "page": 208,
+    "pdf_text_match": true,
+    "local_pdf_page": 16,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Primary reinforcers are reinforcers that have innate reinforcing\nqualities. These kinds of reinforcers are not learned.",
+    "reference_chunk_ids": [
+      "9d787fe1ff2b4753b89c517c6e2e1011415168d075266687becb99a6906af90a"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_test_02",
+    "page": 208,
+    "pdf_text_match": true,
+    "local_pdf_page": 16,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "A secondary reinforcer has no inherent value and only has reinforcing qualities when linked with a primary\nreinforcer.",
+    "reference_chunk_ids": [
+      "3f91095a5517e95c6665f966c6a3df896a1654a081361b0c4cc1840e0422349e"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_test_03",
+    "page": 213,
+    "pdf_text_match": true,
+    "local_pdf_page": 21,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "This is known as latent\nlearning: learning that occurs but is not observable in behavior until there is a reason to demonstrate it.",
+    "reference_chunk_ids": [
+      "338e794338d19ec4b1f7d7a5c09c243031fe19c7a27d3720b1b2c191567765e7"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_test_04",
+    "page": 267,
+    "pdf_text_match": true,
+    "local_pdf_page": 35,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Recall is what we most often think about when we talk about memory retrieval: it\nmeans you can access information without cues.",
+    "reference_chunk_ids": [
+      "96da03b961decd95a55b48913595e28f4af6bcd660fa4ff459493b6217ae92a2",
+      "35e8bab52f2d44d3644cf2360fe2df54652bcc7bb94d1b16bde7d11297c416e1"
+    ],
+    "crosses_chunk_boundary": true
+  },
+  {
+    "id": "d7_test_04",
+    "page": 267,
+    "pdf_text_match": true,
+    "local_pdf_page": 35,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Recognition happens when you identify information that you have previously learned after encountering it\nagain.",
+    "reference_chunk_ids": [
+      "35e8bab52f2d44d3644cf2360fe2df54652bcc7bb94d1b16bde7d11297c416e1"
+    ],
+    "crosses_chunk_boundary": false
+  },
+  {
+    "id": "d7_test_05",
+    "page": 270,
+    "pdf_text_match": true,
+    "local_pdf_page": 38,
+    "page_text_match": true,
+    "strategy_A_coverage": true,
+    "evidence": "Even flashbulb memories for important events can have decreased accuracy with the passage of time.",
+    "reference_chunk_ids": [
+      "e2e4b533778a5d0718e3fd79249a0ecaf03eb10085c14a29536db98f39f65b9d"
+    ],
+    "crosses_chunk_boundary": false
+  }
+]

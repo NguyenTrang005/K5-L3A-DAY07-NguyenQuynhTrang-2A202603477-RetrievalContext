@@ -1,0 +1,247 @@
+[
+  {
+    "query_id": "d7_test_01",
+    "split": "test",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (explicit per-group test labels in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": "Student confirmed context=2, answer=2, all citations correct for test 01-04.",
+    "citation_reviews": [
+      {
+        "id": "88340d9155ee35e309a8ba85b31b2b53a7ef13972684a5eb69ee8b2a90971e61",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      },
+      {
+        "id": "681c63ff5c6056c163d111e6937e3f6939174e7e3a3053007e56a593acbb394e",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_test_02",
+    "split": "test",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (explicit per-group test labels in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": "Student confirmed context=2, answer=2, all citations correct for test 01-04.",
+    "citation_reviews": [
+      {
+        "id": "9d787fe1ff2b4753b89c517c6e2e1011415168d075266687becb99a6906af90a",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      },
+      {
+        "id": "3f91095a5517e95c6665f966c6a3df896a1654a081361b0c4cc1840e0422349e",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_test_03",
+    "split": "test",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (explicit per-group test labels in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": "Student confirmed context=2, answer=2, all citations correct for test 01-04.",
+    "citation_reviews": [
+      {
+        "id": "338e794338d19ec4b1f7d7a5c09c243031fe19c7a27d3720b1b2c191567765e7",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      },
+      {
+        "id": "fb399a8fbb345cf3582b60bcedd3707a670dd35a01ba7571c5f7c45c26866e98",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_test_04",
+    "split": "test",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (explicit per-group test labels in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": "Student confirmed context=2, answer=2, all citations correct for test 01-04.",
+    "citation_reviews": [
+      {
+        "id": "96da03b961decd95a55b48913595e28f4af6bcd660fa4ff459493b6217ae92a2",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      },
+      {
+        "id": "35e8bab52f2d44d3644cf2360fe2df54652bcc7bb94d1b16bde7d11297c416e1",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_test_05",
+    "split": "test",
+    "answerable": true,
+    "status": "abstain",
+    "reviewed_by": "student (explicit per-group test labels in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 0,
+    "abstention_correct": null,
+    "reason": "Student confirmed context=2, answer=0, and all citations correct. Test 05 is false abstention despite context deemed sufficient by student.",
+    "citation_reviews": [
+      {
+        "id": "c310adacb77910777ef17acce8ed33a4008bae0a62ffe82bd0e45fd1d2f8a634",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      },
+      {
+        "id": "98cdd2218ea8f76b78b031f58b7e55757d3db996ccaaec7d32909bc8725350a3",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": false,
+      "citation_list_matches_answer": false,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_test_06",
+    "split": "test",
+    "answerable": false,
+    "status": "abstain",
+    "reviewed_by": "student (explicit per-group test labels in conversation)",
+    "review_status": "reviewed",
+    "context_grade": null,
+    "answer_grade": null,
+    "abstention_correct": true,
+    "reason": "Student explicitly confirmed correct abstention and all citations correct for test 06-07.",
+    "citation_reviews": [
+      {
+        "id": "362e24d130450a2d3c2f84bc648ea961b3cb7add24e785744153fcea598b380b",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      },
+      {
+        "id": "92e547734bfdacce06bed44c72a0f480f471be9a027256646b6e4c7e22103b34",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": null,
+      "citation_list_matches_answer": false,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_test_07",
+    "split": "test",
+    "answerable": false,
+    "status": "abstain",
+    "reviewed_by": "student (explicit per-group test labels in conversation)",
+    "review_status": "reviewed",
+    "context_grade": null,
+    "answer_grade": null,
+    "abstention_correct": true,
+    "reason": "Student explicitly confirmed correct abstention and all citations correct for test 06-07.",
+    "citation_reviews": [
+      {
+        "id": "cfbc2ef6b4601790ec334a327aa58abedab92e5b8cd988cfb4b21eba0409f44c",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      },
+      {
+        "id": "447a3ad2e14fcf5ce9a58cbf2209426bca845f44dc0a425047d6d5863e9db4a6",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Citation support confirmed by student in explicit grouped test review."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": null,
+      "citation_list_matches_answer": false,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  }
+]

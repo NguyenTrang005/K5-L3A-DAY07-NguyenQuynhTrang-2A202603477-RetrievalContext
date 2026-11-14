@@ -1,0 +1,136 @@
+[
+  {
+    "id": "d7_test_01",
+    "split": "test",
+    "answerable": true,
+    "origin": "new_day7",
+    "expected_answer": "Củng cố những hành vi xấp xỉ liên tiếp, ngày càng gần hành vi mục tiêu.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 207,
+          "evidence": "Instead of rewarding\nonly the target behavior, in shaping, we reward successive approximations of a target behavior."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_test_02",
+    "split": "test",
+    "answerable": true,
+    "origin": "new_day7",
+    "expected_answer": "Primary reinforcer có tính củng cố bẩm sinh, không cần học; secondary reinforcer không có giá trị vốn có và có tính củng cố khi liên kết với primary reinforcer.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 208,
+          "evidence": "Primary reinforcers are reinforcers that have innate reinforcing\nqualities. These kinds of reinforcers are not learned."
+        },
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 208,
+          "evidence": "A secondary reinforcer has no inherent value and only has reinforcing qualities when linked with a primary\nreinforcer."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_test_03",
+    "split": "test",
+    "answerable": true,
+    "origin": "new_day7",
+    "expected_answer": "Latent learning (học tiềm ẩn): học xảy ra nhưng chưa quan sát được trong hành vi cho đến khi có lý do để thể hiện.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 213,
+          "evidence": "This is known as latent\nlearning: learning that occurs but is not observable in behavior until there is a reason to demonstrate it."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_test_04",
+    "split": "test",
+    "answerable": true,
+    "origin": "new_day7",
+    "expected_answer": "Recall là truy cập thông tin mà không có gợi ý; recognition là nhận ra thông tin đã học khi gặp lại thông tin đó.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 267,
+          "evidence": "Recall is what we most often think about when we talk about memory retrieval: it\nmeans you can access information without cues."
+        },
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 267,
+          "evidence": "Recognition happens when you identify information that you have previously learned after encountering it\nagain."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_test_05",
+    "split": "test",
+    "answerable": true,
+    "origin": "new_day7",
+    "expected_answer": "Không. Ngay cả flashbulb memories về sự kiện quan trọng cũng có thể giảm độ chính xác theo thời gian.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 270,
+          "evidence": "Even flashbulb memories for important events can have decreased accuracy with the passage of time."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_test_06",
+    "split": "test",
+    "answerable": false,
+    "origin": "new_day7",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Có thời lượng viết và thời gian năm tuần, cùng nhóm có cải thiện, nhưng không có phần trăm tăng dung lượng trí nhớ.",
+    "related_pages": [
+      282,
+      283
+    ],
+    "verification_method": "Search terms across all 52 indexed page texts, inspect related source passages and corresponding PDF pages; top-k absence is not evidence of absence.",
+    "search_terms": [
+      "Yogo",
+      "Fujihara",
+      "five weeks",
+      "percent",
+      "percentage",
+      "%"
+    ],
+    "review_status": "AI-assisted draft; student confirmation against source PDF pending"
+  },
+  {
+    "id": "d7_test_07",
+    "split": "test",
+    "answerable": false,
+    "origin": "new_day7",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Có mô tả quan sát và bắt chước hành vi gây hấn nhưng không quy định số lần quan sát chính xác cần thiết cho từng trẻ.",
+    "related_pages": [
+      216,
+      217,
+      218
+    ],
+    "verification_method": "Search terms across all 52 indexed page texts, inspect related source passages and corresponding PDF pages; top-k absence is not evidence of absence.",
+    "search_terms": [
+      "Bobo",
+      "Bandura",
+      "observ",
+      "trial",
+      "times"
+    ],
+    "review_status": "AI-assisted draft; student confirmation against source PDF pending"
+  }
+]

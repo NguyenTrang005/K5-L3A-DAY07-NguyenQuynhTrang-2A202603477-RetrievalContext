@@ -1,0 +1,85 @@
+{
+  "run_at_utc": "2026-11-14T09:40:16.384639+00:00",
+  "split": "test",
+  "strategy": "A",
+  "benchmark_version": "day7-v1",
+  "original_queries": true,
+  "filter_policy": "Apply user-provided case filter equally to all methods",
+  "corpus_sha256": "922be37c16b06a407c507b15d8aed972298e18deb48b72ffff98822618f1d41e",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "dimensions": 384,
+  "normalized": true,
+  "max_seq_length": 512,
+  "lexical": "Starter TF-IDF; Unicode word tokens; raw TF; smoothed IDF; cosine; no translation",
+  "hybrid": {
+    "fusion": "weighted RRF",
+    "weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "rrf_k": 60,
+    "candidates_per_retriever": 20
+  },
+  "setup_seconds": {
+    "lexical_index": 0.018433299992466345,
+    "model_load": 6.072844299997087
+  },
+  "limitations": "Automatic exact normalized evidence matching; equivalent evidence needs manual review. Errors count as misses for answerable retrieval. No context/agent/abstention metrics. CPU/electricity excluded from cost. Dense database must remain unchanged throughout run. Timing includes embedding/DB per query and cold/warm effects; hybrid independently reruns both components.",
+  "summaries": [
+    {
+      "method": "dense",
+      "queries": 7,
+      "answerable": 5,
+      "errors": 0,
+      "hit1": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "hit3": {
+        "n": 3,
+        "N": 5,
+        "rate": 0.6
+      },
+      "median_ms": 49.09400000178721,
+      "service_cost_usd": 0
+    },
+    {
+      "method": "tfidf",
+      "queries": 7,
+      "answerable": 5,
+      "errors": 0,
+      "hit1": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "hit3": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "median_ms": 0.23530000180471689,
+      "service_cost_usd": 0
+    },
+    {
+      "method": "hybrid",
+      "queries": 7,
+      "answerable": 5,
+      "errors": 0,
+      "hit1": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "hit3": {
+        "n": 3,
+        "N": 5,
+        "rate": 0.6
+      },
+      "median_ms": 33.29439999652095,
+      "service_cost_usd": 0
+    }
+  ]
+}

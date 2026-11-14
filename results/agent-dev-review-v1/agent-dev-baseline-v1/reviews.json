@@ -1,0 +1,597 @@
+[
+  {
+    "query_id": "d7_dev_01",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": "Student explicitly confirmed context grade 2 and grounded answer grade 2 for d7_dev_01 in both configurations. Individual citation-support labels remain pending. Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "04925eea6292d4e33adc60647bb51a11ecaff66e6d2cee77cce6fe32fe73d152",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "b1bde301571bd890b99efc50df0349cf883d45bc5a0cd8cc45c4f8ce47d7213d",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": false,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_02",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": "Student confirmed score 2 for context and grounded answer of d7_dev_02 in both configurations. Individual citation-support labels remain pending. Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "ec76de95ef5b801fbd83ee086f4fd0ae321ec845d450481b2ce1c9300f1189c1",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_03",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "2ba192cd053c861e059d73d251e718f4d519570f4a8b80bfa3209f3bda5fbe76",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": false,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_04",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "6464d422b44c24429bcc5b1bb3a87c08f1b0d058698ebe0d6919c32fdd2da1fb",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "0c0d628745a308234734fb32e7d9a5fac138a4d424ef5291e081cd0d024230e4",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "2ba192cd053c861e059d73d251e718f4d519570f4a8b80bfa3209f3bda5fbe76",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_05",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "2ba192cd053c861e059d73d251e718f4d519570f4a8b80bfa3209f3bda5fbe76",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "57c962f711d9b9506eb04ef8e7a15017456eb6514c2bca39c0a210f128980e46",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "304626c879221d4413d4a313726d7f6fe5f9ef7325429cf31fb98d2cd783baed",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_06",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "c684632dce8f8ebc95fad71b9f50267013923da9eab37c397f743d3a01360862",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "fb8c44ce1fe9449aa7a68ea4c828984a8c8c8f4b3584b463628b8186a5b37ad0",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": false,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_07",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "c684632dce8f8ebc95fad71b9f50267013923da9eab37c397f743d3a01360862",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "7f3f2befff142ab63f44a85b639d871300627f9790370e7086026938652edd15",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_08",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "c218cc5bab69f1c805faebc8d8b5771b20bc51b5fc8d4176923a27e4944d40a1",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "61211ad5283c32fa6dbf48990a2a6cf8091a7e62c9150f20e5b7f90b67077ad2",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "0db9172b8257fbf80f115804eaa96b3ae88dcff2d1a8a37f995adea17c64d2c0",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_09",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "d7e2178f3435f515203c777cb5b68c26abd8eff58cc904a8052beac14a68e41f",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_10",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "8bac06479c68682cb096430904fc4e85e3cfacfff31cba7a7aba43cd7b4c446a",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_11",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "a2cbb764a7dbd380e8e6972d525e8eeabd8b95ce8d3d4d319ce05528b9deaf27",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "6553897591857d52749cd88f32879a0feaed5ef715537bca8bd690d8baa7bbb4",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_12",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "63c43b47cb3b5e579ffa7cacb8f078f88afa11a0b90739937ca0f500b045485f",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "bb030790ef4f714ecd5a3df13daf4128a4933969667148ef22bca92230f73a65",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "83f2c21b8f8c43029354d516854b11b33a05f351e3412dcd69a144d93c468a68",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_13",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": "Student confirmed context grade 2 and grounded answer grade 2 for baseline d7_dev_13 in conversation. Individual citation-support labels remain pending. Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "f24c3f8b9e4f8d50b5281119cdb4dcc013c6c82a05c22f4640b7724450c7ff06",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "c3e3d966c511fe55781aa36b186e39b45a59b1fa66c8fc61f460c34b7a41a48c",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "fe6ada02b9673c09ff5cd1ad0ef0018ba078df78ce2f96118c02e4a3f4898fe1",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_14",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "9b07854c25ff6753b19a2b6dab6b4f6c70b65e1eee0a44a15f6c6c2e24111e88",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "2fe09a87164de258f0e1c9957712d50c247d3716cbfef1e66fa1c19222a40051",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": false,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_15",
+    "split": "dev",
+    "answerable": true,
+    "status": "answered",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "abstention_correct": null,
+    "reason": " Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+        "in_context": true,
+        "in_citation_list": true,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": true,
+      "citation_list_matches_answer": true,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_16",
+    "split": "dev",
+    "answerable": false,
+    "status": "abstain",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": null,
+    "answer_grade": null,
+    "abstention_correct": true,
+    "reason": "Student confirmed correct abstention for d7_dev_16 in both configurations: insufficient evidence for the requested percentage; no unsupported claims identified during review. Individual citation labels, if any, remain pending. Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "7646a39ceb7385bc58356f317226262fa756f0277878805d7f8d3567f5e6851a",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      },
+      {
+        "id": "9011b87ac2a0336129cd578a0f7daf69145b4e4f8368444eaae709e7e4266f4d",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": null,
+      "citation_list_matches_answer": false,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  },
+  {
+    "query_id": "d7_dev_17",
+    "split": "dev",
+    "answerable": false,
+    "status": "abstain",
+    "reviewed_by": "student (full-set confirmation in conversation)",
+    "review_status": "reviewed",
+    "context_grade": null,
+    "answer_grade": null,
+    "abstention_correct": true,
+    "reason": "Student confirmed correct abstention for d7_dev_17 in both configurations: no evidence for the exact maze length in meters and no unsupported claims identified. Individual citation labels, if present, remain pending. Full-set review confirmation: remaining unanswered grade fields recorded as satisfactory (2); prior explicit grades preserved, including false-abstention grade 0. Citation support recorded from this confirmation.",
+    "citation_reviews": [
+      {
+        "id": "338e794338d19ec4b1f7d7a5c09c243031fe19c7a27d3720b1b2c191567765e7",
+        "in_context": true,
+        "in_citation_list": false,
+        "in_answer": true,
+        "supports_answer": true,
+        "reason": "Student confirmed all remaining outputs and references satisfactory after reviewing the full set; recorded from user confirmation, not independently adjudicated."
+      }
+    ],
+    "automatic_checks": {
+      "exact_context_evidence_hit": null,
+      "citation_list_matches_answer": false,
+      "note": "Automatic checks are not human content grades. All embedded citations count, including those omitted from the model citation list."
+    }
+  }
+]

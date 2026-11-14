@@ -1,0 +1,1755 @@
+[
+  {
+    "query_id": "d7_test_01",
+    "method": "dense",
+    "query": "Trong shaping, người huấn luyện củng cố điều gì trước khi đạt hành vi mục tiêu?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "88340d9155ee35e309a8ba85b31b2b53a7ef13972684a5eb69ee8b2a90971e61",
+        "text": "ts favor\nreinforcement over punishment—they recommend that you catch your child doing something good and reward\nthem for it.\nShaping\nIn his operant conditioning experiments, Skinner often used an approach called shaping. Instead of rewarding\nonly the target behavior, in shaping, we reward successive approximations of a target behavior. Why is shaping\nneeded? Remember that in order for reinforcement to work, the organism must first display the behavior.\nShaping is needed because it is extremely unlikely that an organism will display anything but the simplest of\nbehaviors spontaneously. In shaping, behaviors are broken down into many small, achievable steps. The\nspecific steps used in the process are the following:\n1. Reinforce any response that resembles the desired behavior.\n2. Then reinfo",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5579559206962585,
+        "rank": 1
+      },
+      {
+        "id": "681c63ff5c6056c163d111e6937e3f6939174e7e3a3053007e56a593acbb394e",
+        "text": "rce the response that more closely resembles the desired behavior. You will no longer reinforce\nthe previously reinforced response.\n3. Next, begin to reinforce the response that even more closely resembles the desired behavior.\n4. Continue to reinforce closer and closer approximations of the desired behavior.\n5. Finally, only reinforce the desired behavior.\nShaping is often used in teaching a complex behavior or chain of behaviors. Skinner used shaping to teach\npigeons not only such relatively simple behaviors as pecking a disk in a Skinner box, but also many unusual\nand entertaining behaviors, such as turning in circles, walking in figure eights, and even playing ping pong; the\ntechnique is commonly used by animal trainers today. An important part of shaping is stimulus\ndiscrimination. Re",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.543561490986437,
+        "rank": 2
+      },
+      {
+        "id": "26dad6ba7d40f77ed4b1fc1a5cdb0d8118237233ea5aab3c6e0913edd3b02664",
+        "text": "Reinforcement Schedules\nRemember, the best way to teach a person or animal a behavior is to use positive reinforcement. For example,\nSkinner used positive reinforcement to teach rats to press a lever in a Skinner box. At first, the rat might\nrandomly hit the lever while exploring the box, and out would come a pellet of food. After eating the pellet,\nwhat do you think the hungry rat did next? It hit the lever again, and received another pellet of food. Each time\nthe rat hit the lever, a pellet of food came out. When an organism receives a reinforcer each time it displays a\nbehavior, it is called continuous reinforcement. This reinforcement schedule is the quickest way to teach\nsomeone a behavior, and it is especially effective in training a new behavior. Let’s look back at the dog that was\n",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 210,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 198,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5378496922344163,
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 55.61650000163354,
+    "answerable": true,
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_02",
+    "method": "dense",
+    "query": "Điểm khác nhau về nguồn gốc giá trị củng cố giữa primary reinforcer và secondary reinforcer là gì?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "9d787fe1ff2b4753b89c517c6e2e1011415168d075266687becb99a6906af90a",
+        "text": "cleans his entire room.\nPrimary and Secondary Reinforcers\nRewards such as stickers, praise, money, toys, and more can be used to reinforce learning. Let’s go back to\nSkinner’s rats again. How did the rats learn to press the lever in the Skinner box? They were rewarded with\nfood each time they pressed the lever. For animals, food would be an obvious reinforcer.\nWhat would be a good reinforcer for humans? For your child cleaning the room, it was the promise of a toy.\nHow about Sydney, the soccer player? If you gave Sydney a piece of candy every time Sydney scored a goal, you\nwould be using a primary reinforcer. Primary reinforcers are reinforcers that have innate reinforcing\nqualities. These kinds of reinforcers are not learned. Water, food, sleep, shelter, sex, and touch, among others,\nare ",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 208,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 196,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6218671122551772,
+        "rank": 1
+      },
+      {
+        "id": "3f91095a5517e95c6665f966c6a3df896a1654a081361b0c4cc1840e0422349e",
+        "text": "primary reinforcers. Pleasure is also a primary reinforcer. Organisms do not lose their drive for these\nthings. For most people, jumping in a cool lake on a very hot day would be reinforcing and the cool lake would\nbe innately reinforcing—the water would cool the person off (a physical need), as well as provide pleasure.\nA secondary reinforcer has no inherent value and only has reinforcing qualities when linked with a primary\nreinforcer. Praise, linked to affection, is one example of a secondary reinforcer, as when you called out “Great\nshot!” every time Sydney made a goal. Another example, money, is only worth something when you can use it\nto buy other things—either things that satisfy basic needs (food, water, shelter—all primary reinforcers) or\nother secondary reinforcers. If you were o",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 208,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 196,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5883288839451474,
+        "rank": 2
+      },
+      {
+        "id": "88340d9155ee35e309a8ba85b31b2b53a7ef13972684a5eb69ee8b2a90971e61",
+        "text": "ts favor\nreinforcement over punishment—they recommend that you catch your child doing something good and reward\nthem for it.\nShaping\nIn his operant conditioning experiments, Skinner often used an approach called shaping. Instead of rewarding\nonly the target behavior, in shaping, we reward successive approximations of a target behavior. Why is shaping\nneeded? Remember that in order for reinforcement to work, the organism must first display the behavior.\nShaping is needed because it is extremely unlikely that an organism will display anything but the simplest of\nbehaviors spontaneously. In shaping, behaviors are broken down into many small, achievable steps. The\nspecific steps used in the process are the following:\n1. Reinforce any response that resembles the desired behavior.\n2. Then reinfo",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5452290827309031,
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 40.027899987762794,
+    "answerable": true,
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_03",
+    "method": "dense",
+    "query": "Một người đã học được điều gì đó nhưng chỉ thể hiện ra hành vi khi có lý do cần dùng kiến thức ấy. Sách gọi dạng học này là gì?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "7349d49887328d5422bfd79f7c0808ed966a4534e3461583f35e9463ccc4fc5b",
+        "text": "ner was such a staunch believer that cognition didn't matter\nthat his ideas were considered radical behaviorism. Skinner considered the mind a \"black box\"—something\ncompletely unknowable—and, therefore, something not to be studied. However, another behaviorist, Edward C.\nTolman, had a different opinion. Tolman’s experiments with rats demonstrated that organisms can learn even\nif they do not receive immediate reinforcement (Tolman & Honzik, 1930; Tolman, Ritchie, & Kalish, 1946). This\nfinding was in conflict with the prevailing idea at the time that reinforcement must be immediate in order for\nlearning to occur, thus suggesting a cognitive aspect to learning.\nIn the experiments, Tolman placed hungry rats in a maze with no reward for finding their way through it. He\nalso studied a comparison",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 213,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 201,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6257280297794354,
+        "rank": 1
+      },
+      {
+        "id": "ba7348c4c6f2311710d2a6a90f73a6f459095568ba0f1b47d8bf8a5b1e72ab5d",
+        "text": "s when an organism makes connections between stimuli or events that occur together in the\nenvironment. You will see that associative learning is central to all three basic learning processes discussed in\nthis chapter; classical conditioning tends to involve unconscious processes, operant conditioning tends to\ninvolve conscious processes, and observational learning adds social and cognitive layers to all the basic\nassociative processes, both conscious and unconscious. These learning processes will be discussed in detail\nlater in the chapter, but it is helpful to have a brief overview of each as you begin to explore how learning is\nunderstood from a psychological perspective.\nIn classical conditioning, also known as Pavlovian conditioning, organisms learn to associate events—or\nstimuli—that ",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 194,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 182,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5792418640174151,
+        "rank": 2
+      },
+      {
+        "id": "49884c3770190441baf6068fd7adea785e01137d440bb34e6b2b42cf6fc896ac",
+        "text": "at idea. He was a strong\nproponent of using operant conditioning principles to influence students’ behavior at school. In fact, in\naddition to the Skinner box, he also invented what he called a teaching machine that was designed to reward\nsmall steps in learning (Skinner, 1961)—an early forerunner of computer-assisted learning. His teaching\nmachine tested students’ knowledge as they worked through various school subjects. If students answered\nquestions correctly, they received immediate positive reinforcement and could continue; if they answered\nincorrectly, they did not receive any reinforcement. The idea was that students would spend additional time\nstudying the material to increase their chance of being reinforced the next time (Skinner, 1961).\nIn negative reinforcement, an undesirable ",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 206,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 194,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5636589695113593,
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 58.750700001837686,
+    "answerable": true,
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "query_id": "d7_test_04",
+    "method": "dense",
+    "query": "Recall và recognition khác nhau như thế nào về việc sử dụng gợi ý hoặc gặp lại thông tin?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "b73bc56f9ea401e513a319cd9d6f3de707b8bd9cf46d5e4bb15fee5969c74771",
+        "text": "n. When you remember something, you\nusually have several routes to get the information you are trying to access, and the more links you have to a\nconcept, the better your chances of remembering.\nThere are two types of long-term memory: explicit and implicit (Figure 8.6). Understanding the difference\nbetween explicit memory and implicit memory is important because aging, particular types of brain trauma,\nand certain disorders can impact explicit and implicit memory in different ways. Explicit memories are those\nwe consciously try to remember, recall, and report. For example, if you are studying for your chemistry exam,\nthe material you are learning will be part of your explicit memory. In keeping with the computer analogy, some\ninformation in your long-term memory would be like the informat",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 264,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 252,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6970217047346666,
+        "rank": 1
+      },
+      {
+        "id": "96da03b961decd95a55b48913595e28f4af6bcd660fa4ff459493b6217ae92a2",
+        "text": "information out of memory storage and back into conscious awareness is known as retrieval. This would be\nsimilar to finding and opening a paper you had previously saved on your computer’s hard drive. Now it’s back\non your desktop, and you can work with it again. Our ability to retrieve information from long-term memory is\nvital to our everyday functioning. You must be able to retrieve information from memory in order to do\neverything from knowing how to brush your hair and teeth, to driving to work, to knowing how to perform your\njob once you get there.\nThere are three ways you can retrieve information out of your long-term memory storage system: recall,\nrecognition, and relearning. Recall is what we most often think about when we talk about memory retrieval: it\nmeans you can access inform",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 267,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 255,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6587197387981583,
+        "rank": 2
+      },
+      {
+        "id": "35e8bab52f2d44d3644cf2360fe2df54652bcc7bb94d1b16bde7d11297c416e1",
+        "text": "ation without cues. For example, you would use recall for an essay test.\nRecognition happens when you identify information that you have previously learned after encountering it\nagain. It involves a process of comparison. When you take a multiple-choice test, you are relying on\nrecognition to help you choose the correct answer. Here is another example. Let’s say you graduated from high\nschool 10 years ago, and you have returned to your hometown for your 10-year reunion. You may not be able to\nrecall all of your classmates, but you recognize many of them based on their yearbook photos.\nThe third form of retrieval is relearning, and it’s just what it sounds like. It involves learning information that\nyou previously learned. Whitney took Spanish in high school, but after high school she did n",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 267,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 255,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6306266784667969,
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 77.65580000705086,
+    "answerable": true,
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_05",
+    "method": "dense",
+    "query": "Flashbulb memories về sự kiện quan trọng có luôn giữ nguyên độ chính xác theo thời gian không?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "98cdd2218ea8f76b78b031f58b7e55757d3db996ccaaec7d32909bc8725350a3",
+        "text": " event is not required (Hirst & Phelps, 2016). Family\nmembers might always remember how they heard about an important event in their lives, or people in a\nschool may recall nearly everything about the way they experienced a major event in that setting. And\nalthough most studies (and many conversations) involve negative memories, positive events can also elicit\nflashbulb memories.\n8.2 • Parts of the Brain Involved with Memory 257",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 269,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4432,
+          "char_start": 4000,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 257,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.7382476769833385,
+        "rank": 1
+      },
+      {
+        "id": "c310adacb77910777ef17acce8ed33a4008bae0a62ffe82bd0e45fd1d2f8a634",
+        "text": "nt (McGaugh, 2003). This is clearly evidenced by what is known\nas the flashbulb memory phenomenon.\nA flashbulb memory is an exceptionally clear recollection of an important event (Figure 8.9). Many people\nwho have lived through historic and momentous events can recall exactly where they were and how they heard\nabout them. For example, a Pew Research Center (2011) survey found that for those Americans who were age 8\nor older at the time of 9/11 terrorist attacks, 97% can recall the moment they learned of this event, even a\ndecade after it happened. Many widely discussed examples of flashbulb memories pertain to national or global\nevents, but according to their initial definition by researchers Brown and Kulik (1977) as well as additional\nwork by more recent researchers, such a widely shared",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 269,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4000,
+          "char_start": 3200,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 257,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.7034153342247009,
+        "rank": 2
+      },
+      {
+        "id": "cf151fc41cd78266e685c5340060946e3ea6f09b188b4ba2e5ecb94a4a266ebf",
+        "text": "e \"magic number\" 7 plus or minus 2. However, more contemporary research has found\nworking memory capacity is 4 plus or minus 1 (Cowan, 2010). Generally, recall is somewhat better for random\nnumbers than for random letters (Jacobs, 1887) and also often slightly better for information we hear (acoustic\nencoding) rather than information we see (visual encoding) (Anderson, 1969).\nMemory trace decay and interference are two factors that affect short-term memory retention. Peterson and\nPeterson (1959) investigated short-term memory using the three letter sequences called trigrams (e.g., CLS)\nthat had to be recalled after various time intervals between 3 and 18 seconds. Participants remembered about\n80% of the trigrams after a 3-second delay, but only 10% after a delay of 18 seconds, which caused",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 263,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 251,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6103434198890089,
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 35.9288000036031,
+    "answerable": true,
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "query_id": "d7_test_06",
+    "method": "dense",
+    "query": "Trong nghiên cứu Yogo và Fujihara (2008) được tài liệu nhắc đến, dung lượng trí nhớ ngắn hạn tăng chính xác bao nhiêu phần trăm sau năm tuần?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "cf151fc41cd78266e685c5340060946e3ea6f09b188b4ba2e5ecb94a4a266ebf",
+        "text": "e \"magic number\" 7 plus or minus 2. However, more contemporary research has found\nworking memory capacity is 4 plus or minus 1 (Cowan, 2010). Generally, recall is somewhat better for random\nnumbers than for random letters (Jacobs, 1887) and also often slightly better for information we hear (acoustic\nencoding) rather than information we see (visual encoding) (Anderson, 1969).\nMemory trace decay and interference are two factors that affect short-term memory retention. Peterson and\nPeterson (1959) investigated short-term memory using the three letter sequences called trigrams (e.g., CLS)\nthat had to be recalled after various time intervals between 3 and 18 seconds. Participants remembered about\n80% of the trigrams after a 3-second delay, but only 10% after a delay of 18 seconds, which caused",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 263,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 251,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6613930069569953,
+        "rank": 1
+      },
+      {
+        "id": "17e487d16d15218b0d6fb5210d0e2e3541196b8801096b917e2fd837debfe1d5",
+        "text": "short-term memory, long-term\nmemory storage capacity is believed to be unlimited. It encompasses all the things you can remember that\nhappened more than just a few minutes ago. One cannot really consider long-term memory without thinking\n8.1 • How Memory Functions 251",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 263,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4268,
+          "char_start": 4000,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 251,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6086732149124146,
+        "rank": 2
+      },
+      {
+        "id": "362e24d130450a2d3c2f84bc648ea961b3cb7add24e785744153fcea598b380b",
+        "text": "hers found that this simple writing task increased short-term memory\ncapacity after five weeks, but only for the participants who wrote about traumatic experiences. Psychologists\n270 8 • Memory\nAccess for free at openstax.org",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 282,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2625,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 270,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6077463574182735,
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 49.09400000178721,
+    "answerable": false
+  },
+  {
+    "query_id": "d7_test_07",
+    "method": "dense",
+    "query": "Theo mô tả thí nghiệm búp bê Bobo trong tài liệu, mỗi trẻ cần chính xác bao nhiêu lần quan sát người lớn trước khi bắt chước hành vi gây hấn?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "cfbc2ef6b4601790ec334a327aa58abedab92e5b8cd988cfb4b21eba0409f44c",
+        "text": "te the new behavior, the reinforcement you receive plays a part in whether or not you\nwill repeat the behavior.\nBandura researched modeling behavior, particularly children’s modeling of adults’ aggressive and violent\nbehaviors (Bandura, Ross, & Ross, 1961). He conducted an experiment with a five-foot inflatable doll that he\ncalled a Bobo doll. In the experiment, children’s aggressive behavior was influenced by whether the teacher\nwas punished for her behavior. In one scenario, a teacher acted aggressively with the doll, hitting, throwing,\nand even punching the doll, while a child watched. There were two types of responses by the children to the\nteacher’s behavior. When the teacher was punished for her bad behavior, the children decreased their\ntendency to act as she had. When the teacher w",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 217,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 205,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.6234530210494995,
+        "rank": 1
+      },
+      {
+        "id": "447a3ad2e14fcf5ce9a58cbf2209426bca845f44dc0a425047d6d5863e9db4a6",
+        "text": "as praised or ignored (and not punished for her behavior), the\nchildren imitated what she did, and even what she said. They punched, kicked, and yelled at the doll.\nLINK T O LEARNING\nWatch this video clip about the famous Bobo doll experiment (https://openstax.org/l/bobodoll) to see a portion\nof the experiment and an interview with Albert Bandura.\nWhat are the implications of this study? Bandura concluded that we watch and learn, and that this learning can\nhave both prosocial and antisocial effects. Prosocial (positive) models can be used to encourage socially\nacceptable behavior. Parents in particular should take note of this finding. If you want your children to read,\nthen read to them. Let them see you reading. Keep books in your home. Talk about your favorite books. If you\nwant your ch",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 217,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 205,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5986449718475342,
+        "rank": 2
+      },
+      {
+        "id": "5fea988050fac08f8e6b4a49edc414deb1a0adfb29a0b58c436f91e9727654fa",
+        "text": "n the slightest suggestion from the therapist can lead to misinformation effects. For example,\nresearchers Stephen Ceci and Maggie Brucks (1993, 1995) asked three-year-old children to use an\nanatomically correct doll to show where their pediatricians had touched them during an exam. Fifty-five\npercent of the children pointed to the genital/anal area on the dolls, even when they had not received any form\nof genital exam.\n8.3 • Problems with Memory 263",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 275,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2854,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 263,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5812763571739197,
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 47.27360000833869,
+    "answerable": false
+  },
+  {
+    "query_id": "d7_test_01",
+    "method": "tfidf",
+    "query": "Trong shaping, người huấn luyện củng cố điều gì trước khi đạt hành vi mục tiêu?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "88340d9155ee35e309a8ba85b31b2b53a7ef13972684a5eb69ee8b2a90971e61",
+        "text": "ts favor\nreinforcement over punishment—they recommend that you catch your child doing something good and reward\nthem for it.\nShaping\nIn his operant conditioning experiments, Skinner often used an approach called shaping. Instead of rewarding\nonly the target behavior, in shaping, we reward successive approximations of a target behavior. Why is shaping\nneeded? Remember that in order for reinforcement to work, the organism must first display the behavior.\nShaping is needed because it is extremely unlikely that an organism will display anything but the simplest of\nbehaviors spontaneously. In shaping, behaviors are broken down into many small, achievable steps. The\nspecific steps used in the process are the following:\n1. Reinforce any response that resembles the desired behavior.\n2. Then reinfo",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.5482176000829836,
+        "strategy": "tfidf",
+        "rank": 1
+      },
+      {
+        "id": "51e6bac55e32ec4f38f5e0572bc7707fe8c7fcbcb45eff09f25d3f1bfacabdb5",
+        "text": "call Pavlov’s dogs—he trained them to respond to the tone of a bell, and not to similar tones\nor sounds. This discrimination is also important in operant conditioning and in shaping behavior.\nLINK T O LEARNING\nWatch this brief video of Skinner's pigeons playing ping pong (https://openstax.org/l/pingpong) to learn more.\nIt’s easy to see how shaping is effective in teaching behaviors to animals, but how does shaping work with\nhumans? Let’s consider parents whose goal is to have their child learn to clean his room. They use shaping to\nhelp him master steps toward the goal. Instead of performing the entire task, they set up these steps and\nreinforce each step. First, he cleans up one toy. Second, he cleans up five toys. Third, he chooses whether to\npick up ten toys or put his books and clothes",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4000,
+          "char_start": 3200,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.37293814619544186,
+        "strategy": "tfidf",
+        "rank": 2
+      },
+      {
+        "id": "681c63ff5c6056c163d111e6937e3f6939174e7e3a3053007e56a593acbb394e",
+        "text": "rce the response that more closely resembles the desired behavior. You will no longer reinforce\nthe previously reinforced response.\n3. Next, begin to reinforce the response that even more closely resembles the desired behavior.\n4. Continue to reinforce closer and closer approximations of the desired behavior.\n5. Finally, only reinforce the desired behavior.\nShaping is often used in teaching a complex behavior or chain of behaviors. Skinner used shaping to teach\npigeons not only such relatively simple behaviors as pecking a disk in a Skinner box, but also many unusual\nand entertaining behaviors, such as turning in circles, walking in figure eights, and even playing ping pong; the\ntechnique is commonly used by animal trainers today. An important part of shaping is stimulus\ndiscrimination. Re",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.2674330836430588,
+        "strategy": "tfidf",
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 0.2823999966494739,
+    "answerable": true,
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_02",
+    "method": "tfidf",
+    "query": "Điểm khác nhau về nguồn gốc giá trị củng cố giữa primary reinforcer và secondary reinforcer là gì?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "3f91095a5517e95c6665f966c6a3df896a1654a081361b0c4cc1840e0422349e",
+        "text": "primary reinforcers. Pleasure is also a primary reinforcer. Organisms do not lose their drive for these\nthings. For most people, jumping in a cool lake on a very hot day would be reinforcing and the cool lake would\nbe innately reinforcing—the water would cool the person off (a physical need), as well as provide pleasure.\nA secondary reinforcer has no inherent value and only has reinforcing qualities when linked with a primary\nreinforcer. Praise, linked to affection, is one example of a secondary reinforcer, as when you called out “Great\nshot!” every time Sydney made a goal. Another example, money, is only worth something when you can use it\nto buy other things—either things that satisfy basic needs (food, water, shelter—all primary reinforcers) or\nother secondary reinforcers. If you were o",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 208,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 196,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.4945376174014038,
+        "strategy": "tfidf",
+        "rank": 1
+      },
+      {
+        "id": "9d787fe1ff2b4753b89c517c6e2e1011415168d075266687becb99a6906af90a",
+        "text": "cleans his entire room.\nPrimary and Secondary Reinforcers\nRewards such as stickers, praise, money, toys, and more can be used to reinforce learning. Let’s go back to\nSkinner’s rats again. How did the rats learn to press the lever in the Skinner box? They were rewarded with\nfood each time they pressed the lever. For animals, food would be an obvious reinforcer.\nWhat would be a good reinforcer for humans? For your child cleaning the room, it was the promise of a toy.\nHow about Sydney, the soccer player? If you gave Sydney a piece of candy every time Sydney scored a goal, you\nwould be using a primary reinforcer. Primary reinforcers are reinforcers that have innate reinforcing\nqualities. These kinds of reinforcers are not learned. Water, food, sleep, shelter, sex, and touch, among others,\nare ",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 208,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 196,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.36222947424030966,
+        "strategy": "tfidf",
+        "rank": 2
+      },
+      {
+        "id": "cc3effed79f8991658e03828b6aab2558533e218d2d28e8cb44dbf6e9bf301d2",
+        "text": "learning to sit earlier in the chapter. Now, each time he sits, you give him a treat. Timing is important here: you\nwill be most successful if you present the reinforcer immediately after he sits, so that he can make an\nassociation between the target behavior (sitting) and the consequence (getting a treat).\nLINK T O LEARNING\nWatch this video clip of veterinarian Dr. Sophia Yin shaping a dog's behavior using the steps outlined above\n(https://openstax.org/l/sueyin) to learn more.\nOnce a behavior is trained, researchers and trainers often turn to another type of reinforcement\nschedule—partial reinforcement. In partial reinforcement, also referred to as intermittent reinforcement, the\nperson or animal does not get reinforced every time they perform the desired behavior. There are several\ndiffe",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 210,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 198,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.08115804504155452,
+        "strategy": "tfidf",
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 0.2682000049389899,
+    "answerable": true,
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_03",
+    "method": "tfidf",
+    "query": "Một người đã học được điều gì đó nhưng chỉ thể hiện ra hành vi khi có lý do cần dùng kiến thức ấy. Sách gọi dạng học này là gì?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "902194b0bc76a62cf304792a8ffd54e201bd66e53e06872f7fe2a0df8221380b",
+        "text": "taying upright in the beginning, but now you just do it. Moreover, you probably are good\nat staying balanced, but cannot tell someone the exact way you do it. Similarly, when you first learned to drive,\nyou probably thought about a lot of things that you just do now without much thought. When you first learned\nto do these tasks, someone may have told you how to do them, but everything you learned since those\ninstructions that you cannot readily explain to someone else as the way to do it is implicit memory.\nImplicit priming is another type of implicit memory (Schacter, 1992). During priming exposure to a stimulus\naffects the response to a later stimulus. Stimuli can vary and may include words, pictures, and other stimuli to\nelicit a response or increase recognition. For instance, some peop",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 265,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 253,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.28765498499612674,
+        "strategy": "tfidf",
+        "rank": 1
+      },
+      {
+        "id": "878c15d90e9524f46bd8a6d48bda7f56f02bba2ec38e27e9cb3b8efab05a2dab",
+        "text": "ent creates a chance for an error to occur. False memory is remembering\nsomething that did not happen. Research participants have recalled hearing a word, even though they never\nheard the word (Roediger & McDermott, 2000).\nDo you remember where you were when you heard about a historic or perhaps a tragic event? Who were you with\nand what were you doing? What did you talk about? Can you contact those people you were with? Do they have\nthe same memories as you or do they have different memories?\nDIG DEEPER\n258 8 • Memory\nAccess for free at openstax.org",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 270,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2156,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 258,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.18891958917731042,
+        "strategy": "tfidf",
+        "rank": 2
+      },
+      {
+        "id": "2fff42741c3bdcb5ae65bba5c34324b084ef0910360f92cb6bacbb350988fef4",
+        "text": "es of these people in your house?\nWait . . . is this even your house? Uh oh, your stomach begins to rumble and you feel hungry. You’d like\nsomething to eat, but you don’t know where the food is kept or even how to prepare it. Oh dear, this is getting\nconfusing. Maybe it would be best to just go back to bed. A bed . . . what is a bed?\nWe have an amazing capacity for memory, but how, exactly, do we process and store information? Are there\ndifferent kinds of memory, and if so, what characterizes the different types? How, exactly, do we retrieve our\nmemories? And why do we forget? This chapter will explore these questions as we learn about memory.\n8 Memory",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 259,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1460,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 247,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.16469482151128495,
+        "strategy": "tfidf",
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 0.22899999748915434,
+    "answerable": true,
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "query_id": "d7_test_04",
+    "method": "tfidf",
+    "query": "Recall và recognition khác nhau như thế nào về việc sử dụng gợi ý hoặc gặp lại thông tin?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "35e8bab52f2d44d3644cf2360fe2df54652bcc7bb94d1b16bde7d11297c416e1",
+        "text": "ation without cues. For example, you would use recall for an essay test.\nRecognition happens when you identify information that you have previously learned after encountering it\nagain. It involves a process of comparison. When you take a multiple-choice test, you are relying on\nrecognition to help you choose the correct answer. Here is another example. Let’s say you graduated from high\nschool 10 years ago, and you have returned to your hometown for your 10-year reunion. You may not be able to\nrecall all of your classmates, but you recognize many of them based on their yearbook photos.\nThe third form of retrieval is relearning, and it’s just what it sounds like. It involves learning information that\nyou previously learned. Whitney took Spanish in high school, but after high school she did n",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 267,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 255,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.21357167837219765,
+        "strategy": "tfidf",
+        "rank": 1
+      },
+      {
+        "id": "01f942af1bb5ba1067d8f62bc00a93bda58848ee465a98ae94ed117548ebcae8",
+        "text": "nd Xu Liu from MIT talk about using laser beams to manipulate fear memory in rats. Find out\nwhy their work caused a media frenzy once it was published in Science.\nThe Hippocampus\nAnother group of researchers also experimented with rats to learn how the hippocampus functions in memory\nprocessing (Figure 8.8). They created lesions in the hippocampi of the rats, and found that the rats\ndemonstrated memory impairment on various tasks, such as object recognition and maze running. They\nconcluded that the hippocampus is involved in memory, specifically normal recognition memory as well as\nspatial memory (when the memory tasks are like recall tests) (Clark, Zola, & Squire, 2000). Another job of the\nhippocampus is to project information to cortical regions that give memories meaning and connect the",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 268,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 256,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.18418449080206717,
+        "strategy": "tfidf",
+        "rank": 2
+      },
+      {
+        "id": "96da03b961decd95a55b48913595e28f4af6bcd660fa4ff459493b6217ae92a2",
+        "text": "information out of memory storage and back into conscious awareness is known as retrieval. This would be\nsimilar to finding and opening a paper you had previously saved on your computer’s hard drive. Now it’s back\non your desktop, and you can work with it again. Our ability to retrieve information from long-term memory is\nvital to our everyday functioning. You must be able to retrieve information from memory in order to do\neverything from knowing how to brush your hair and teeth, to driving to work, to knowing how to perform your\njob once you get there.\nThere are three ways you can retrieve information out of your long-term memory storage system: recall,\nrecognition, and relearning. Recall is what we most often think about when we talk about memory retrieval: it\nmeans you can access inform",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 267,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 255,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.14099762103289284,
+        "strategy": "tfidf",
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 0.23780000628903508,
+    "answerable": true,
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_05",
+    "method": "tfidf",
+    "query": "Flashbulb memories về sự kiện quan trọng có luôn giữ nguyên độ chính xác theo thời gian không?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "c310adacb77910777ef17acce8ed33a4008bae0a62ffe82bd0e45fd1d2f8a634",
+        "text": "nt (McGaugh, 2003). This is clearly evidenced by what is known\nas the flashbulb memory phenomenon.\nA flashbulb memory is an exceptionally clear recollection of an important event (Figure 8.9). Many people\nwho have lived through historic and momentous events can recall exactly where they were and how they heard\nabout them. For example, a Pew Research Center (2011) survey found that for those Americans who were age 8\nor older at the time of 9/11 terrorist attacks, 97% can recall the moment they learned of this event, even a\ndecade after it happened. Many widely discussed examples of flashbulb memories pertain to national or global\nevents, but according to their initial definition by researchers Brown and Kulik (1977) as well as additional\nwork by more recent researchers, such a widely shared",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 269,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4000,
+          "char_start": 3200,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 257,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.2860055042191045,
+        "strategy": "tfidf",
+        "rank": 1
+      },
+      {
+        "id": "98cdd2218ea8f76b78b031f58b7e55757d3db996ccaaec7d32909bc8725350a3",
+        "text": " event is not required (Hirst & Phelps, 2016). Family\nmembers might always remember how they heard about an important event in their lives, or people in a\nschool may recall nearly everything about the way they experienced a major event in that setting. And\nalthough most studies (and many conversations) involve negative memories, positive events can also elicit\nflashbulb memories.\n8.2 • Parts of the Brain Involved with Memory 257",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 269,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4432,
+          "char_start": 4000,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 257,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.21302404058740085,
+        "strategy": "tfidf",
+        "rank": 2
+      },
+      {
+        "id": "e2e4b533778a5d0718e3fd79249a0ecaf03eb10085c14a29536db98f39f65b9d",
+        "text": "FIGURE 8.9 Most people can remember where they were when they first heard about the 9/11 terrorist attacks.\nThis is an example of a flashbulb memory: a record of an atypical and unusual event that has very strong emotional\nassociations. (credit: Michael Foran)\nInaccurate and False Memories\nEven flashbulb memories for important events can have decreased accuracy with the passage of time. For\nexample, on at least three occasions, when asked how he heard about the terrorist attacks of 9/11, President\nGeorge W. Bush responded inaccurately. In January 2002, less than 4 months after the attacks, the then sitting\nPresident Bush was asked how he heard about the attacks. He responded:\nI was sitting there, and my Chief of Staff—well, first of all, when we walked into the classroom, I had\nseen this p",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 270,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 258,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.19898029396211925,
+        "strategy": "tfidf",
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 0.22909999825060368,
+    "answerable": true,
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_06",
+    "method": "tfidf",
+    "query": "Trong nghiên cứu Yogo và Fujihara (2008) được tài liệu nhắc đến, dung lượng trí nhớ ngắn hạn tăng chính xác bao nhiêu phần trăm sau năm tuần?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "92e547734bfdacce06bed44c72a0f480f471be9a027256646b6e4c7e22103b34",
+        "text": "cessfully is to find a strategy that works for you.\nLINK T O LEARNING\nJoshua Foer is a science writer who \"accidentally\" won the U.S. Memory Championships. Watch his TEDTalk,\ntitled \"Feats of Memory Anyone Can Do,\" in which he explains a mnemonic device called the memory palace\n(https://openstax.org/l/foer) to learn more.\nSome other strategies that are used to improve memory include expressive writing and saying words aloud.\nExpressive writing helps boost your short-term memory, particularly if you write about a traumatic experience\nin your life. Masao Yogo and Shuji Fujihara (2008) had participants write for 20-minute intervals several times\nper month. The participants were instructed to write about a traumatic experience, their best possible future\nselves, or a trivial topic. The researc",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 282,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 270,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.186711861273499,
+        "strategy": "tfidf",
+        "rank": 1
+      },
+      {
+        "id": "5082ba5ba9464020cfac446cf159490b92bdeb400fb47dac88e58d26fa86a38d",
+        "text": "dini, 2008). You may be asking\nEVERYDAY CONNECTION\n6.2 • Classical Conditioning 191",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 203,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3283,
+          "char_start": 3200,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 191,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.16642789716544198,
+        "strategy": "tfidf",
+        "rank": 2
+      },
+      {
+        "id": "9f2bb80eaf179c12a4798bed7c213c923a9270613064c43ad69269991a2f3e46",
+        "text": "Department of Health & Human Services, 2013). We tend to do what we know. Children who grow up\nwitnessing their parents deal with anger and frustration through violent and aggressive acts often learn to\nbehave in that manner themselves.\nSome studies suggest that violent television shows, movies, and video games may also have antisocial effects\n(Figure 6.18) although further research needs to be done to understand the correlational and causational\naspects of media violence and behavior. Some studies have found a link between viewing violence and\naggression seen in children (Anderson & Gentile, 2008; Kirsch, 2010; Miller, Grabell, Thomas, Bermann, &\nGraham-Bermann, 2012). These findings may not be surprising, given that a child graduating from high school\nhas been exposed to around 200,000 v",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 218,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 206,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.04759401312610174,
+        "strategy": "tfidf",
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 0.23530000180471689,
+    "answerable": false
+  },
+  {
+    "query_id": "d7_test_07",
+    "method": "tfidf",
+    "query": "Theo mô tả thí nghiệm búp bê Bobo trong tài liệu, mỗi trẻ cần chính xác bao nhiêu lần quan sát người lớn trước khi bắt chước hành vi gây hấn?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "status": "ok",
+    "results": [
+      {
+        "id": "447a3ad2e14fcf5ce9a58cbf2209426bca845f44dc0a425047d6d5863e9db4a6",
+        "text": "as praised or ignored (and not punished for her behavior), the\nchildren imitated what she did, and even what she said. They punched, kicked, and yelled at the doll.\nLINK T O LEARNING\nWatch this video clip about the famous Bobo doll experiment (https://openstax.org/l/bobodoll) to see a portion\nof the experiment and an interview with Albert Bandura.\nWhat are the implications of this study? Bandura concluded that we watch and learn, and that this learning can\nhave both prosocial and antisocial effects. Prosocial (positive) models can be used to encourage socially\nacceptable behavior. Parents in particular should take note of this finding. If you want your children to read,\nthen read to them. Let them see you reading. Keep books in your home. Talk about your favorite books. If you\nwant your ch",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 217,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 205,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.11049398318919196,
+        "strategy": "tfidf",
+        "rank": 1
+      },
+      {
+        "id": "cfbc2ef6b4601790ec334a327aa58abedab92e5b8cd988cfb4b21eba0409f44c",
+        "text": "te the new behavior, the reinforcement you receive plays a part in whether or not you\nwill repeat the behavior.\nBandura researched modeling behavior, particularly children’s modeling of adults’ aggressive and violent\nbehaviors (Bandura, Ross, & Ross, 1961). He conducted an experiment with a five-foot inflatable doll that he\ncalled a Bobo doll. In the experiment, children’s aggressive behavior was influenced by whether the teacher\nwas punished for her behavior. In one scenario, a teacher acted aggressively with the doll, hitting, throwing,\nand even punching the doll, while a child watched. There were two types of responses by the children to the\nteacher’s behavior. When the teacher was punished for her bad behavior, the children decreased their\ntendency to act as she had. When the teacher w",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 217,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 205,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.09170541296918112,
+        "strategy": "tfidf",
+        "rank": 2
+      }
+    ],
+    "elapsed_ms": 0.15130000247154385,
+    "answerable": false
+  },
+  {
+    "query_id": "d7_test_01",
+    "method": "hybrid",
+    "query": "Trong shaping, người huấn luyện củng cố điều gì trước khi đạt hành vi mục tiêu?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "fusion_weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "status": "ok",
+    "results": [
+      {
+        "id": "88340d9155ee35e309a8ba85b31b2b53a7ef13972684a5eb69ee8b2a90971e61",
+        "text": "ts favor\nreinforcement over punishment—they recommend that you catch your child doing something good and reward\nthem for it.\nShaping\nIn his operant conditioning experiments, Skinner often used an approach called shaping. Instead of rewarding\nonly the target behavior, in shaping, we reward successive approximations of a target behavior. Why is shaping\nneeded? Remember that in order for reinforcement to work, the organism must first display the behavior.\nShaping is needed because it is extremely unlikely that an organism will display anything but the simplest of\nbehaviors spontaneously. In shaping, behaviors are broken down into many small, achievable steps. The\nspecific steps used in the process are the following:\n1. Reinforce any response that resembles the desired behavior.\n2. Then reinfo",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03278688524590164,
+        "component_ranks": {
+          "dense": 1,
+          "tfidf": 1
+        },
+        "component_scores": {
+          "dense": 0.5579559206962585,
+          "tfidf": 0.5482176000829836
+        },
+        "rank": 1
+      },
+      {
+        "id": "681c63ff5c6056c163d111e6937e3f6939174e7e3a3053007e56a593acbb394e",
+        "text": "rce the response that more closely resembles the desired behavior. You will no longer reinforce\nthe previously reinforced response.\n3. Next, begin to reinforce the response that even more closely resembles the desired behavior.\n4. Continue to reinforce closer and closer approximations of the desired behavior.\n5. Finally, only reinforce the desired behavior.\nShaping is often used in teaching a complex behavior or chain of behaviors. Skinner used shaping to teach\npigeons not only such relatively simple behaviors as pecking a disk in a Skinner box, but also many unusual\nand entertaining behaviors, such as turning in circles, walking in figure eights, and even playing ping pong; the\ntechnique is commonly used by animal trainers today. An important part of shaping is stimulus\ndiscrimination. Re",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 207,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 195,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03200204813108039,
+        "component_ranks": {
+          "dense": 2,
+          "tfidf": 3
+        },
+        "component_scores": {
+          "dense": 0.543561490986437,
+          "tfidf": 0.2674330836430588
+        },
+        "rank": 2
+      },
+      {
+        "id": "cc3effed79f8991658e03828b6aab2558533e218d2d28e8cb44dbf6e9bf301d2",
+        "text": "learning to sit earlier in the chapter. Now, each time he sits, you give him a treat. Timing is important here: you\nwill be most successful if you present the reinforcer immediately after he sits, so that he can make an\nassociation between the target behavior (sitting) and the consequence (getting a treat).\nLINK T O LEARNING\nWatch this video clip of veterinarian Dr. Sophia Yin shaping a dog's behavior using the steps outlined above\n(https://openstax.org/l/sueyin) to learn more.\nOnce a behavior is trained, researchers and trainers often turn to another type of reinforcement\nschedule—partial reinforcement. In partial reinforcement, also referred to as intermittent reinforcement, the\nperson or animal does not get reinforced every time they perform the desired behavior. There are several\ndiffe",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 210,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 198,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03125,
+        "component_ranks": {
+          "dense": 4,
+          "tfidf": 4
+        },
+        "component_scores": {
+          "dense": 0.4939638081810598,
+          "tfidf": 0.10639472612363647
+        },
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 33.29439999652095,
+    "answerable": true,
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_02",
+    "method": "hybrid",
+    "query": "Điểm khác nhau về nguồn gốc giá trị củng cố giữa primary reinforcer và secondary reinforcer là gì?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "fusion_weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "status": "ok",
+    "results": [
+      {
+        "id": "3f91095a5517e95c6665f966c6a3df896a1654a081361b0c4cc1840e0422349e",
+        "text": "primary reinforcers. Pleasure is also a primary reinforcer. Organisms do not lose their drive for these\nthings. For most people, jumping in a cool lake on a very hot day would be reinforcing and the cool lake would\nbe innately reinforcing—the water would cool the person off (a physical need), as well as provide pleasure.\nA secondary reinforcer has no inherent value and only has reinforcing qualities when linked with a primary\nreinforcer. Praise, linked to affection, is one example of a secondary reinforcer, as when you called out “Great\nshot!” every time Sydney made a goal. Another example, money, is only worth something when you can use it\nto buy other things—either things that satisfy basic needs (food, water, shelter—all primary reinforcers) or\nother secondary reinforcers. If you were o",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 208,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 196,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03252247488101534,
+        "component_ranks": {
+          "dense": 2,
+          "tfidf": 1
+        },
+        "component_scores": {
+          "dense": 0.5883288839451474,
+          "tfidf": 0.4945376174014038
+        },
+        "rank": 1
+      },
+      {
+        "id": "9d787fe1ff2b4753b89c517c6e2e1011415168d075266687becb99a6906af90a",
+        "text": "cleans his entire room.\nPrimary and Secondary Reinforcers\nRewards such as stickers, praise, money, toys, and more can be used to reinforce learning. Let’s go back to\nSkinner’s rats again. How did the rats learn to press the lever in the Skinner box? They were rewarded with\nfood each time they pressed the lever. For animals, food would be an obvious reinforcer.\nWhat would be a good reinforcer for humans? For your child cleaning the room, it was the promise of a toy.\nHow about Sydney, the soccer player? If you gave Sydney a piece of candy every time Sydney scored a goal, you\nwould be using a primary reinforcer. Primary reinforcers are reinforcers that have innate reinforcing\nqualities. These kinds of reinforcers are not learned. Water, food, sleep, shelter, sex, and touch, among others,\nare ",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 208,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 196,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03252247488101534,
+        "component_ranks": {
+          "dense": 1,
+          "tfidf": 2
+        },
+        "component_scores": {
+          "dense": 0.6218671122551772,
+          "tfidf": 0.36222947424030966
+        },
+        "rank": 2
+      },
+      {
+        "id": "cc3effed79f8991658e03828b6aab2558533e218d2d28e8cb44dbf6e9bf301d2",
+        "text": "learning to sit earlier in the chapter. Now, each time he sits, you give him a treat. Timing is important here: you\nwill be most successful if you present the reinforcer immediately after he sits, so that he can make an\nassociation between the target behavior (sitting) and the consequence (getting a treat).\nLINK T O LEARNING\nWatch this video clip of veterinarian Dr. Sophia Yin shaping a dog's behavior using the steps outlined above\n(https://openstax.org/l/sueyin) to learn more.\nOnce a behavior is trained, researchers and trainers often turn to another type of reinforcement\nschedule—partial reinforcement. In partial reinforcement, also referred to as intermittent reinforcement, the\nperson or animal does not get reinforced every time they perform the desired behavior. There are several\ndiffe",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 210,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 198,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03125763125763126,
+        "component_ranks": {
+          "dense": 5,
+          "tfidf": 3
+        },
+        "component_scores": {
+          "dense": 0.5115989751576848,
+          "tfidf": 0.08115804504155452
+        },
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 34.28779999376275,
+    "answerable": true,
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_03",
+    "method": "hybrid",
+    "query": "Một người đã học được điều gì đó nhưng chỉ thể hiện ra hành vi khi có lý do cần dùng kiến thức ấy. Sách gọi dạng học này là gì?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "fusion_weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "status": "ok",
+    "results": [
+      {
+        "id": "902194b0bc76a62cf304792a8ffd54e201bd66e53e06872f7fe2a0df8221380b",
+        "text": "taying upright in the beginning, but now you just do it. Moreover, you probably are good\nat staying balanced, but cannot tell someone the exact way you do it. Similarly, when you first learned to drive,\nyou probably thought about a lot of things that you just do now without much thought. When you first learned\nto do these tasks, someone may have told you how to do them, but everything you learned since those\ninstructions that you cannot readily explain to someone else as the way to do it is implicit memory.\nImplicit priming is another type of implicit memory (Schacter, 1992). During priming exposure to a stimulus\naffects the response to a later stimulus. Stimuli can vary and may include words, pictures, and other stimuli to\nelicit a response or increase recognition. For instance, some peop",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 265,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 253,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.029726775956284153,
+        "component_ranks": {
+          "dense": 15,
+          "tfidf": 1
+        },
+        "component_scores": {
+          "dense": 0.5123647894750619,
+          "tfidf": 0.28765498499612674
+        },
+        "rank": 1
+      },
+      {
+        "id": "b985fb23714abaf7cf709a22bfc369188d3ed1bcfcc865748acc21503b8bd18f",
+        "text": "his father, he can imitate\nthe moves that bring success and avoid the moves that lead to failure. Can you think of something you have\nlearned how to do after watching someone else?\nAll of the approaches covered in this chapter are part of a particular tradition in psychology, called\nbehaviorism, which we discuss in the next section. However, these approaches do not represent the entire\nstudy of learning. Separate traditions of learning have taken shape within different fields of psychology, such\nas memory and cognition, so you will find that other chapters will round out your understanding of the topic.\nOver time these traditions tend to converge. For example, in this chapter you will see how cognition has come\nto play a larger role in behaviorism, whose more extreme adherents once insiste",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 195,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 183,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.027583600982429624,
+        "component_ranks": {
+          "dense": 19,
+          "tfidf": 7
+        },
+        "component_scores": {
+          "dense": 0.5006196201216948,
+          "tfidf": 0.10570725040078321
+        },
+        "rank": 2
+      },
+      {
+        "id": "eb909712cacb7000c52cdaab1e6ca742a7a60ca1853618ced5602f3f59cc723f",
+        "text": "FIGURE 6.2 In operant conditioning, a response is associated with a consequence. This dog has learned that\ncertain behaviors result in receiving a treat. (credit: Crystal Rolfe)\nObservational learning extends the effective range of both classical and operant conditioning. In contrast to\nclassical and operant conditioning, in which learning occurs only through direct experience, observational\nlearning is the process of watching others and then imitating what they do. A lot of learning among humans\nand other animals comes from observational learning. To get an idea of the extra effective range that\nobservational learning brings, consider Ben and his son Julian from the introduction. How might observation\nhelp Julian learn to surf, as opposed to learning by trial and error alone? By watching ",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 195,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 183,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.02702702702702703,
+        "component_ranks": {
+          "dense": 14,
+          "tfidf": 14
+        },
+        "component_scores": {
+          "dense": 0.5132930431751326,
+          "tfidf": 0.05413977937903412
+        },
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 30.981600008090027,
+    "answerable": true,
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "query_id": "d7_test_04",
+    "method": "hybrid",
+    "query": "Recall và recognition khác nhau như thế nào về việc sử dụng gợi ý hoặc gặp lại thông tin?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "fusion_weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "status": "ok",
+    "results": [
+      {
+        "id": "35e8bab52f2d44d3644cf2360fe2df54652bcc7bb94d1b16bde7d11297c416e1",
+        "text": "ation without cues. For example, you would use recall for an essay test.\nRecognition happens when you identify information that you have previously learned after encountering it\nagain. It involves a process of comparison. When you take a multiple-choice test, you are relying on\nrecognition to help you choose the correct answer. Here is another example. Let’s say you graduated from high\nschool 10 years ago, and you have returned to your hometown for your 10-year reunion. You may not be able to\nrecall all of your classmates, but you recognize many of them based on their yearbook photos.\nThe third form of retrieval is relearning, and it’s just what it sounds like. It involves learning information that\nyou previously learned. Whitney took Spanish in high school, but after high school she did n",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 267,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 255,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.032266458495966696,
+        "component_ranks": {
+          "dense": 3,
+          "tfidf": 1
+        },
+        "component_scores": {
+          "dense": 0.6306266784667969,
+          "tfidf": 0.21357167837219765
+        },
+        "rank": 1
+      },
+      {
+        "id": "96da03b961decd95a55b48913595e28f4af6bcd660fa4ff459493b6217ae92a2",
+        "text": "information out of memory storage and back into conscious awareness is known as retrieval. This would be\nsimilar to finding and opening a paper you had previously saved on your computer’s hard drive. Now it’s back\non your desktop, and you can work with it again. Our ability to retrieve information from long-term memory is\nvital to our everyday functioning. You must be able to retrieve information from memory in order to do\neverything from knowing how to brush your hair and teeth, to driving to work, to knowing how to perform your\njob once you get there.\nThere are three ways you can retrieve information out of your long-term memory storage system: recall,\nrecognition, and relearning. Recall is what we most often think about when we talk about memory retrieval: it\nmeans you can access inform",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 267,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 800,
+          "char_start": 0,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 255,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03200204813108039,
+        "component_ranks": {
+          "dense": 2,
+          "tfidf": 3
+        },
+        "component_scores": {
+          "dense": 0.6587197387981583,
+          "tfidf": 0.14099762103289284
+        },
+        "rank": 2
+      },
+      {
+        "id": "f4054dbe052495f7b5e4eba368b5b31d75ddaae84cb12c52f2b4e6f6b2f989e7",
+        "text": "\nSome years ago, psychologists Fergus Craik and Endel Tulving (1975) conducted a series of experiments to\nfind out. Participants were given words along with questions about them. The questions required the\nparticipants to process the words at one of the three levels. The visual processing questions included such\nthings as asking the participants about the font of the letters. The acoustic processing questions asked the\nparticipants about the sound or rhyming of the words, and the semantic processing questions asked the\nparticipants about the meaning of the words. After participants were presented with the words and questions,\nthey were given an unexpected recall or recognition task.\nWords that had been encoded semantically were better remembered than those encoded visually or\nacoustically.",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 261,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4000,
+          "char_start": 3200,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 249,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.029877369007803793,
+        "component_ranks": {
+          "dense": 9,
+          "tfidf": 5
+        },
+        "component_scores": {
+          "dense": 0.5898388624191284,
+          "tfidf": 0.0908063587482764
+        },
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 32.55699999863282,
+    "answerable": true,
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "query_id": "d7_test_05",
+    "method": "hybrid",
+    "query": "Flashbulb memories về sự kiện quan trọng có luôn giữ nguyên độ chính xác theo thời gian không?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "fusion_weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "status": "ok",
+    "results": [
+      {
+        "id": "98cdd2218ea8f76b78b031f58b7e55757d3db996ccaaec7d32909bc8725350a3",
+        "text": " event is not required (Hirst & Phelps, 2016). Family\nmembers might always remember how they heard about an important event in their lives, or people in a\nschool may recall nearly everything about the way they experienced a major event in that setting. And\nalthough most studies (and many conversations) involve negative memories, positive events can also elicit\nflashbulb memories.\n8.2 • Parts of the Brain Involved with Memory 257",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 269,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4432,
+          "char_start": 4000,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 257,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03252247488101534,
+        "component_ranks": {
+          "dense": 1,
+          "tfidf": 2
+        },
+        "component_scores": {
+          "dense": 0.7382476769833385,
+          "tfidf": 0.21302404058740085
+        },
+        "rank": 1
+      },
+      {
+        "id": "c310adacb77910777ef17acce8ed33a4008bae0a62ffe82bd0e45fd1d2f8a634",
+        "text": "nt (McGaugh, 2003). This is clearly evidenced by what is known\nas the flashbulb memory phenomenon.\nA flashbulb memory is an exceptionally clear recollection of an important event (Figure 8.9). Many people\nwho have lived through historic and momentous events can recall exactly where they were and how they heard\nabout them. For example, a Pew Research Center (2011) survey found that for those Americans who were age 8\nor older at the time of 9/11 terrorist attacks, 97% can recall the moment they learned of this event, even a\ndecade after it happened. Many widely discussed examples of flashbulb memories pertain to national or global\nevents, but according to their initial definition by researchers Brown and Kulik (1977) as well as additional\nwork by more recent researchers, such a widely shared",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 269,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4000,
+          "char_start": 3200,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 257,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03252247488101534,
+        "component_ranks": {
+          "dense": 2,
+          "tfidf": 1
+        },
+        "component_scores": {
+          "dense": 0.7034153342247009,
+          "tfidf": 0.2860055042191045
+        },
+        "rank": 2
+      },
+      {
+        "id": "c3e2b5c0e43136e3a8b97c0fddee09ccce4691527c61607845b2ce1b4505961e",
+        "text": "lane fly into the first building. There was a TV set on. And you know, I thought it was pilot\nerror and I was amazed that anybody could make such a terrible mistake. (Greenberg, 2004, p. 2)\nContrary to what President Bush stated, no one saw the first plane hit, except people on the ground near the twin\ntowers. No one watching live TV would have watched the first plane hit the twin towers. Until the first plane hit, it\nwas a normal Tuesday morning.\nMemory is not like a video recording. Human memory, even flashbulb memories, can be frail. Different parts of\nthem, such as the time, visual elements, and smells, are stored in different places. When something is\nremembered, these components have to be put back together for the complete memory, which is known as\nmemory reconstruction. Each compon",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 270,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 1600,
+          "char_start": 800,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 258,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.029850746268656716,
+        "component_ranks": {
+          "dense": 7,
+          "tfidf": 7
+        },
+        "component_scores": {
+          "dense": 0.5212783528136234,
+          "tfidf": 0.10169289804244867
+        },
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 32.83270000247285,
+    "answerable": true,
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "query_id": "d7_test_06",
+    "method": "hybrid",
+    "query": "Trong nghiên cứu Yogo và Fujihara (2008) được tài liệu nhắc đến, dung lượng trí nhớ ngắn hạn tăng chính xác bao nhiêu phần trăm sau năm tuần?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "fusion_weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "status": "ok",
+    "results": [
+      {
+        "id": "92e547734bfdacce06bed44c72a0f480f471be9a027256646b6e4c7e22103b34",
+        "text": "cessfully is to find a strategy that works for you.\nLINK T O LEARNING\nJoshua Foer is a science writer who \"accidentally\" won the U.S. Memory Championships. Watch his TEDTalk,\ntitled \"Feats of Memory Anyone Can Do,\" in which he explains a mnemonic device called the memory palace\n(https://openstax.org/l/foer) to learn more.\nSome other strategies that are used to improve memory include expressive writing and saying words aloud.\nExpressive writing helps boost your short-term memory, particularly if you write about a traumatic experience\nin your life. Masao Yogo and Shuji Fujihara (2008) had participants write for 20-minute intervals several times\nper month. The participants were instructed to write about a traumatic experience, their best possible future\nselves, or a trivial topic. The researc",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 282,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 270,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.030679156908665108,
+        "component_ranks": {
+          "dense": 10,
+          "tfidf": 1
+        },
+        "component_scores": {
+          "dense": 0.5266742424174701,
+          "tfidf": 0.186711861273499
+        },
+        "rank": 1
+      },
+      {
+        "id": "cf151fc41cd78266e685c5340060946e3ea6f09b188b4ba2e5ecb94a4a266ebf",
+        "text": "e \"magic number\" 7 plus or minus 2. However, more contemporary research has found\nworking memory capacity is 4 plus or minus 1 (Cowan, 2010). Generally, recall is somewhat better for random\nnumbers than for random letters (Jacobs, 1887) and also often slightly better for information we hear (acoustic\nencoding) rather than information we see (visual encoding) (Anderson, 1969).\nMemory trace decay and interference are two factors that affect short-term memory retention. Peterson and\nPeterson (1959) investigated short-term memory using the three letter sequences called trigrams (e.g., CLS)\nthat had to be recalled after various time intervals between 3 and 18 seconds. Participants remembered about\n80% of the trigrams after a 3-second delay, but only 10% after a delay of 18 seconds, which caused",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 263,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 251,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.01639344262295082,
+        "component_ranks": {
+          "dense": 1
+        },
+        "component_scores": {
+          "dense": 0.6613930069569953
+        },
+        "rank": 2
+      },
+      {
+        "id": "17e487d16d15218b0d6fb5210d0e2e3541196b8801096b917e2fd837debfe1d5",
+        "text": "short-term memory, long-term\nmemory storage capacity is believed to be unlimited. It encompasses all the things you can remember that\nhappened more than just a few minutes ago. One cannot really consider long-term memory without thinking\n8.1 • How Memory Functions 251",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 263,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 4268,
+          "char_start": 4000,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 251,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.016129032258064516,
+        "component_ranks": {
+          "dense": 2
+        },
+        "component_scores": {
+          "dense": 0.6086732149124146
+        },
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 35.46680000727065,
+    "answerable": false
+  },
+  {
+    "query_id": "d7_test_07",
+    "method": "hybrid",
+    "query": "Theo mô tả thí nghiệm búp bê Bobo trong tài liệu, mỗi trẻ cần chính xác bao nhiêu lần quan sát người lớn trước khi bắt chước hành vi gây hấn?",
+    "filter": null,
+    "split": "test",
+    "query_transformation": null,
+    "fusion_weights": {
+      "dense": 1.0,
+      "tfidf": 1.0
+    },
+    "status": "ok",
+    "results": [
+      {
+        "id": "447a3ad2e14fcf5ce9a58cbf2209426bca845f44dc0a425047d6d5863e9db4a6",
+        "text": "as praised or ignored (and not punished for her behavior), the\nchildren imitated what she did, and even what she said. They punched, kicked, and yelled at the doll.\nLINK T O LEARNING\nWatch this video clip about the famous Bobo doll experiment (https://openstax.org/l/bobodoll) to see a portion\nof the experiment and an interview with Albert Bandura.\nWhat are the implications of this study? Bandura concluded that we watch and learn, and that this learning can\nhave both prosocial and antisocial effects. Prosocial (positive) models can be used to encourage socially\nacceptable behavior. Parents in particular should take note of this finding. If you want your children to read,\nthen read to them. Let them see you reading. Keep books in your home. Talk about your favorite books. If you\nwant your ch",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 217,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 3200,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 205,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03252247488101534,
+        "component_ranks": {
+          "dense": 2,
+          "tfidf": 1
+        },
+        "component_scores": {
+          "dense": 0.5986449718475342,
+          "tfidf": 0.11049398318919196
+        },
+        "rank": 1
+      },
+      {
+        "id": "cfbc2ef6b4601790ec334a327aa58abedab92e5b8cd988cfb4b21eba0409f44c",
+        "text": "te the new behavior, the reinforcement you receive plays a part in whether or not you\nwill repeat the behavior.\nBandura researched modeling behavior, particularly children’s modeling of adults’ aggressive and violent\nbehaviors (Bandura, Ross, & Ross, 1961). He conducted an experiment with a five-foot inflatable doll that he\ncalled a Bobo doll. In the experiment, children’s aggressive behavior was influenced by whether the teacher\nwas punished for her behavior. In one scenario, a teacher acted aggressively with the doll, hitting, throwing,\nand even punching the doll, while a child watched. There were two types of responses by the children to the\nteacher’s behavior. When the teacher was punished for her bad behavior, the children decreased their\ntendency to act as she had. When the teacher w",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 217,
+        "metadata": {
+          "chapter": 6,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2400,
+          "char_start": 1600,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 205,
+          "chapter_title": "Learning",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.03252247488101534,
+        "component_ranks": {
+          "dense": 1,
+          "tfidf": 2
+        },
+        "component_scores": {
+          "dense": 0.6234530210494995,
+          "tfidf": 0.09170541296918112
+        },
+        "rank": 2
+      },
+      {
+        "id": "5fea988050fac08f8e6b4a49edc414deb1a0adfb29a0b58c436f91e9727654fa",
+        "text": "n the slightest suggestion from the therapist can lead to misinformation effects. For example,\nresearchers Stephen Ceci and Maggie Brucks (1993, 1995) asked three-year-old children to use an\nanatomically correct doll to show where their pediatricians had touched them during an exam. Fifty-five\npercent of the children pointed to the genital/anal area on the dolls, even when they had not received any form\nof genital exam.\n8.3 • Problems with Memory 263",
+        "source_id": "openstax_psychology2e",
+        "source": "https://openstax.org/details/books/psychology-2e",
+        "page": 275,
+        "metadata": {
+          "chapter": 8,
+          "license": "CC BY-NC-SA 4.0; stated on PDF page 4",
+          "char_end": 2854,
+          "char_start": 2400,
+          "attribution": "OpenStax, Rice University. Access for free at openstax.org.",
+          "printed_page": 263,
+          "chapter_title": "Memory",
+          "chunking_method": "fixed",
+          "extraction_status": "ok"
+        },
+        "score": 0.015873015873015872,
+        "component_ranks": {
+          "dense": 3
+        },
+        "component_scores": {
+          "dense": 0.5812763571739197
+        },
+        "rank": 3
+      }
+    ],
+    "elapsed_ms": 38.15969999413937,
+    "answerable": false
+  }
+]

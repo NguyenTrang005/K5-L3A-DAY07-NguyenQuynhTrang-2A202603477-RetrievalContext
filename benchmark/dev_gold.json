@@ -1,0 +1,284 @@
+[
+  {
+    "id": "d7_dev_01",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_01",
+    "expected_answer": "Là sự thay đổi tương đối lâu dài về hành vi hoặc kiến thức do trải nghiệm.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 194,
+          "evidence": "learning is a relatively permanent change in behavior or knowledge that results from experience."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_02",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_02",
+    "expected_answer": "Bột thịt là kích thích không điều kiện (UCS); tiết nước bọt là phản ứng không điều kiện (UCR).",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 196,
+          "evidence": "The meat powder\nin this situation was an unconditioned stimulus (UCS): a stimulus that elicits a reflexive response in an\norganism. The dogs’ salivation was an unconditioned response (UCR): a natural (unlearned) reaction to a\ngiven stimulus."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_03",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_03",
+    "expected_answer": "Phản ứng có điều kiện giảm; quá trình này là extinction (dập tắt).",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 200,
+          "evidence": "Extinction is the decrease in the conditioned response when the\nunconditioned stimulus is no longer presented with the conditioned stimulus."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_04",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_04",
+    "expected_answer": "Spontaneous recovery (phục hồi tự phát).",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 201,
+          "evidence": "spontaneous recovery: the return of a previously extinguished conditioned response following a rest period"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_05",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_05",
+    "expected_answer": "Học cách phản ứng khác nhau với các kích thích tương tự nhau.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 202,
+          "evidence": "When an organism learns\nto respond differently to various stimuli that are similar, it is called stimulus discrimination."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_06",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_06",
+    "expected_answer": "Làm tăng hành vi bằng cách loại bỏ một kích thích khó chịu.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 206,
+          "evidence": "In negative reinforcement, an undesirable stimulus is removed to increase a behavior."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_07",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_07",
+    "expected_answer": "Positive punishment (hình phạt dương tính).",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 206,
+          "evidence": "In positive punishment, you add an undesirable stimulus\nto decrease a behavior."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_08",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_08",
+    "expected_answer": "Variable ratio (lịch tỉ lệ biến đổi).",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 211,
+          "evidence": "Among the reinforcement schedules, variable ratio is the most productive and the most resistant to extinction."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_09",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_09",
+    "expected_answer": "Live, verbal và symbolic: mô hình trực tiếp, hướng dẫn bằng lời và biểu tượng.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 216,
+          "evidence": "Bandura identified three kinds of models: live, verbal, and symbolic."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_10",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_10",
+    "expected_answer": "Encoding đưa thông tin vào; storage giữ thông tin đã mã hóa; retrieval đưa thông tin từ trí nhớ trở lại nhận thức.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 260,
+          "evidence": "FIGURE 8.2 Encoding involves the input of information into the memory system. Storage is the retention of the\nencoded information. Retrieval, or getting the information out of memory and back into awareness, is the third\nfunction."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_11",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_11",
+    "expected_answer": "Semantic encoding (mã hóa ngữ nghĩa).",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 261,
+          "evidence": "The encoding of words and their meaning is known as semantic encoding."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_12",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_12",
+    "expected_answer": "Sensory memory, short-term memory, rồi long-term memory: trí nhớ cảm giác, ngắn hạn, dài hạn.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 262,
+          "evidence": "In order for a memory to go into storage (i.e., long-term memory), it has to pass through three distinct stages:\nSensory Memory, Short-Term Memory, and finally Long-Term Memory."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_13",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_13",
+    "expected_answer": "Declarative memory; gồm episodic memory và semantic memory.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 264,
+          "evidence": "Explicit memory is sometimes referred to as declarative memory, because it can be put into\nwords. Explicit memory is divided into episodic memory and semantic memory."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_14",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_14",
+    "expected_answer": "Proactive interference: cũ cản trở mới. Retroactive interference: mới cản trở cũ.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 280,
+          "evidence": "These are examples of proactive interference: when old information hinders the recall of newly learned\ninformation. Retroactive interference happens when information learned more recently hinders the recall of\nolder information."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_15",
+    "split": "dev",
+    "answerable": true,
+    "origin": "day6_dev:dev_15",
+    "expected_answer": "Vì củng cố trí nhớ cần thời gian; học giãn cách cho phép ký ức được củng cố.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "openstax_psychology2e",
+          "page": 283,
+          "evidence": "Use distributed practice: Study across time in short durations rather than trying to cram it all in at once.\nMemory consolidation takes time, and studying across time allows time for memories to consolidate."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "d7_dev_16",
+    "split": "dev",
+    "answerable": false,
+    "origin": "new_day7",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Có khuyến nghị học giãn cách nhưng không có mức phần trăm tăng điểm thi so với học dồn.",
+    "related_pages": [
+      283
+    ],
+    "verification_method": "Search terms across all 52 indexed page texts, inspect related source passages and corresponding PDF pages; top-k absence is not evidence of absence.",
+    "search_terms": [
+      "distributed",
+      "cram",
+      "percent",
+      "percentage",
+      "%",
+      "exam"
+    ],
+    "review_status": "AI-assisted draft; student confirmation against source PDF pending"
+  },
+  {
+    "id": "d7_dev_17",
+    "split": "dev",
+    "answerable": false,
+    "origin": "new_day7",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Có mô tả thí nghiệm và 10 phiên không củng cố nhưng không có tổng chiều dài mê cung tính bằng mét.",
+    "related_pages": [
+      213,
+      214
+    ],
+    "verification_method": "Search terms across all 52 indexed page texts, inspect related source passages and corresponding PDF pages; top-k absence is not evidence of absence.",
+    "search_terms": [
+      "Tolman",
+      "maze",
+      "meter",
+      "metre",
+      "length"
+    ],
+    "review_status": "AI-assisted draft; student confirmation against source PDF pending"
+  }
+]

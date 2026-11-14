@@ -1,0 +1,7 @@
+psycopg[binary]==3.3.8
+python-dotenv>=1,<2
+sentence-transformers==3.4.1
+torch==2.5.1
+transformers==4.57.6
+huggingface-hub==0.36.2
+requests>=2,<3

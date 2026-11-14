@@ -1,0 +1,71 @@
+{
+  "source": "https://api-docs.deepseek.com/quick_start/pricing/",
+  "checked_on": "2026-11-14",
+  "model": "deepseek-flash",
+  "assumed_price_period": "off-peak: all recorded run timestamps are Saturday UTC",
+  "usd_per_million_tokens": {
+    "prompt_cache_hit_tokens": 0.003,
+    "prompt_cache_miss_tokens": 0.15,
+    "completion_tokens": 0.6
+  },
+  "formula": "(cache_hit*0.003 + cache_miss*0.15 + completion*0.6)/1e6",
+  "runs": [
+    {
+      "run": "agent-dev-baseline-v1",
+      "usage": {
+        "prompt_cache_hit_tokens": 16896,
+        "prompt_cache_miss_tokens": 28981,
+        "completion_tokens": 8749
+      },
+      "total_tokens": 54626,
+      "observed_response_cost_estimate_usd": 0.009647238,
+      "errors": 0
+    },
+    {
+      "run": "agent-dev-neighbors-v1",
+      "usage": {
+        "prompt_cache_hit_tokens": 27648,
+        "prompt_cache_miss_tokens": 31427,
+        "completion_tokens": 9684
+      },
+      "total_tokens": 68759,
+      "observed_response_cost_estimate_usd": 0.010607394,
+      "errors": 0
+    },
+    {
+      "run": "agent-smoke-dev-v1",
+      "usage": {
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 0,
+        "completion_tokens": 0
+      },
+      "total_tokens": 0,
+      "observed_response_cost_estimate_usd": 0.0,
+      "errors": 1
+    },
+    {
+      "run": "agent-smoke-dev-v2",
+      "usage": {
+        "prompt_cache_hit_tokens": 1664,
+        "prompt_cache_miss_tokens": 6973,
+        "completion_tokens": 744
+      },
+      "total_tokens": 9381,
+      "observed_response_cost_estimate_usd": 0.001497342,
+      "errors": 0
+    },
+    {
+      "run": "agent-test-baseline-v1",
+      "usage": {
+        "prompt_cache_hit_tokens": 7808,
+        "prompt_cache_miss_tokens": 16682,
+        "completion_tokens": 4039
+      },
+      "total_tokens": 28529,
+      "observed_response_cost_estimate_usd": 0.004949124,
+      "errors": 0
+    }
+  ],
+  "total_observed_estimate_usd": 0.026701098,
+  "limitations": "Post-hoc estimate using official price snapshot and reported token usage, not an invoice. Excludes credits, taxes, rate changes, unobserved billed requests, and local hardware/electricity. Zero observed tokens for a connection failure is not proof of zero provider billing. No paid DeepSeek search/OCR services called; search_documents is a local tool."
+}

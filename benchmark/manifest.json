@@ -1,0 +1,32 @@
+{
+  "version": "day7-v1",
+  "status": "Frozen before Day 7 retrieval comparisons; student review confirmed",
+  "student_review": {
+    "confirmed_on": "2026-11-14",
+    "confirmation": "Student confirmed in conversation that the requested benchmark files were reviewed and everything was satisfactory.",
+    "note": "This confirmation supersedes the generation-time pending review notes in gold files. Question and label contents and their hashes are unchanged."
+  },
+  "counts": {
+    "dev": {
+      "answerable": 15,
+      "unanswerable": 2
+    },
+    "test": {
+      "answerable": 5,
+      "unanswerable": 2
+    }
+  },
+  "corpus": "OpenStax Psychology 2e; PDF pages 193-218 and 259-284; 52 pages; strategy A, 228 chunks",
+  "source_repo": "https://github.com/NguyenTrang005/K5-L3A-DAY06-NguyenQuynhTrang-2A202603477-DataIngestion",
+  "pdf_sha256": "b9b06399026ff97efa225e5b25f98d0d27e4b1a57af9037225d1b9b232eaf680",
+  "local_pdf_layout": "52-page excerpt; local positions 1-26 map to original PDF 193-218; 27-52 map to 259-284",
+  "day6_questions_sha256": "4d91996a3358ec3c046547f5ea87dcf0bf096d884fadb1f8f023123259e9d659",
+  "files_sha256": {
+    "dev_cases.json": "59dfdef95666bee6033acbcca444991df65a17cc4d58d1ce910d31439b24488f",
+    "dev_gold.json": "84f055a69af2efca2fb97c4504b2858e5628f3fd8ce9664ae0e73717086ee0ef",
+    "test_cases.json": "f24235910e3728936908369d6ca47823ed1b1aa9401d8637417300d9cbae6e65",
+    "test_gold.json": "cf8188535759cd8b824b8fa539c05d0a4268acc906e72cbb67ef76f02ce41806"
+  },
+  "provenance": "15 Day 6 dev questions reused; 5 new answerable test and 4 new unanswerable questions authored with AI assistance. Day 6 test excluded.",
+  "limitations": "Shared corpus/topics across splits; not document-disjoint. PDF text matches do not replace student visual/source review. No Day 7 retrieval metrics measured by this script."
+}

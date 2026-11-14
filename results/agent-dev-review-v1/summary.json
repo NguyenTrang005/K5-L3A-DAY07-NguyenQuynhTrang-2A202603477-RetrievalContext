@@ -1,0 +1,154 @@
+{
+  "split": "dev",
+  "label_source": "Student review confirmations in conversation; remaining grades completed following explicit all-cases satisfactory confirmation. Existing individual grades preserved. Not independent AI/human double grading.",
+  "limitations": "Human-reviewed sufficient evidence and automatic exact quote coverage differ; human labels allow equivalent evidence. Citation count includes inline references omitted from model citation lists. USD cost unknown; tokens are not dollar costs. Single model run per configuration; no test evaluation.",
+  "configurations": [
+    {
+      "configuration": "agent-dev-baseline-v1",
+      "queries": 17,
+      "errors": 0,
+      "tool_use": {
+        "n": 17,
+        "N": 17,
+        "rate": 1.0
+      },
+      "answer_grade_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 15
+      },
+      "grounded_answer_score": {
+        "n": 30,
+        "N": 30,
+        "rate": 1.0
+      },
+      "grounded_answer_mean_out_of_2": 2.0,
+      "context_grade_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 15
+      },
+      "reviewed_context_evidence_rate": {
+        "n": 15,
+        "N": 15,
+        "rate": 1.0
+      },
+      "automatic_exact_context_evidence_rate": {
+        "n": 11,
+        "N": 15,
+        "rate": 0.7333333333333333
+      },
+      "citation_validity": {
+        "n": 34,
+        "N": 34,
+        "rate": 1.0
+      },
+      "outputs_with_citations": {
+        "n": 17,
+        "N": 17,
+        "rate": 1.0
+      },
+      "citation_list_mismatch_ids": [
+        "d7_dev_16",
+        "d7_dev_17"
+      ],
+      "abstention_correct": {
+        "n": 2,
+        "N": 2,
+        "rate": 1.0
+      },
+      "false_abstention": {
+        "n": 0,
+        "N": 15,
+        "rate": 0.0
+      },
+      "search_count_distribution": {
+        "1": 13,
+        "2": 4
+      },
+      "usage": {
+        "prompt_tokens": 45877,
+        "completion_tokens": 8749,
+        "total_tokens": 54626,
+        "prompt_cache_hit_tokens": 16896,
+        "prompt_cache_miss_tokens": 28981
+      },
+      "median_elapsed_ms": 3677.3496999958297,
+      "mean_context_chars": 3089.0588235294117,
+      "cost_usd": null
+    },
+    {
+      "configuration": "agent-dev-neighbors-v1",
+      "queries": 17,
+      "errors": 0,
+      "tool_use": {
+        "n": 17,
+        "N": 17,
+        "rate": 1.0
+      },
+      "answer_grade_counts": {
+        "0": 1,
+        "1": 0,
+        "2": 14
+      },
+      "grounded_answer_score": {
+        "n": 28,
+        "N": 30,
+        "rate": 0.9333333333333333
+      },
+      "grounded_answer_mean_out_of_2": 1.8666666666666667,
+      "context_grade_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 15
+      },
+      "reviewed_context_evidence_rate": {
+        "n": 15,
+        "N": 15,
+        "rate": 1.0
+      },
+      "automatic_exact_context_evidence_rate": {
+        "n": 11,
+        "N": 15,
+        "rate": 0.7333333333333333
+      },
+      "citation_validity": {
+        "n": 38,
+        "N": 38,
+        "rate": 1.0
+      },
+      "outputs_with_citations": {
+        "n": 15,
+        "N": 17,
+        "rate": 0.8823529411764706
+      },
+      "citation_list_mismatch_ids": [
+        "d7_dev_13"
+      ],
+      "abstention_correct": {
+        "n": 2,
+        "N": 2,
+        "rate": 1.0
+      },
+      "false_abstention": {
+        "n": 1,
+        "N": 15,
+        "rate": 0.06666666666666667
+      },
+      "search_count_distribution": {
+        "1": 14,
+        "2": 3
+      },
+      "usage": {
+        "prompt_tokens": 59075,
+        "completion_tokens": 9684,
+        "total_tokens": 68759,
+        "prompt_cache_hit_tokens": 27648,
+        "prompt_cache_miss_tokens": 31427
+      },
+      "median_elapsed_ms": 4407.704000012018,
+      "mean_context_chars": 5366.941176470588,
+      "cost_usd": null
+    }
+  ]
+}

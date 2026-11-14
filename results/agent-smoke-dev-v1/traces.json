@@ -1,0 +1,39 @@
+[
+  {
+    "status": "error",
+    "answer": "",
+    "citations": [],
+    "error_type": "RuntimeError",
+    "error": "DeepSeek connection failed or timed out",
+    "question": "Trong thí nghiệm Pavlov, bột thịt và phản ứng tiết nước bọt khi nhận bột thịt lần lượt đóng vai trò gì?",
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "model_calls": [],
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 0
+    },
+    "search_count": 0,
+    "model_call_count": 0,
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "selected_chunks": [],
+    "budget_chars": 6000,
+    "neighbors": true,
+    "max_searches": 2,
+    "elapsed_ms": 26.21050000016112,
+    "cost_usd": null,
+    "cost_note": "Actual tokens logged; USD cost not estimated without verified input/cache/output rates.",
+    "citation_check": "ID membership only; semantic support requires source review",
+    "query_id": "d7_dev_02",
+    "split": "dev"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "run_at_utc": "2026-11-14T09:41:35.450035+00:00",
+  "model": "deepseek-flash",
+  "base_url": "https://api.deepseek.com",
+  "neighbors": false,
+  "budget_chars": 6000,
+  "max_searches": 2,
+  "top_k": 3,
+  "retriever": "dense",
+  "strategy": "A",
+  "corpus_sha256": "922be37c16b06a407c507b15d8aed972298e18deb48b72ffff98822618f1d41e",
+  "cases_sha256": "f24235910e3728936908369d6ca47823ed1b1aa9401d8637417300d9cbae6e65",
+  "thinking": "disabled",
+  "temperature": 0,
+  "max_tokens": 1200,
+  "split": "test",
+  "selection_lock_sha256": "06362a71a92ae7492f8cca7bc0aa6ed2effd00ea9ebc72cab10b78213fd65386",
+  "roles": [
+    "baseline",
+    "selected"
+  ],
+  "note": "No gold supplied to agent; semantic grading done separately. Selected configuration equals baseline, so one test run represents both roles. Rewritten queries logged separately from original-query retrieval benchmark."
+}

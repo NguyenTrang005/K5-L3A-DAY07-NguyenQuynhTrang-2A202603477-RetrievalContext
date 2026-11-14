@@ -1,0 +1,52 @@
+{
+  "run_at_utc": "2026-11-14T08:58:08.101283+00:00",
+  "split": "dev",
+  "budget_chars": 6000,
+  "corpus_sha256": "922be37c16b06a407c507b15d8aed972298e18deb48b72ffff98822618f1d41e",
+  "benchmark_version": "day7-v1",
+  "source_trace_sha256": "d81d7256b13d8e8326bfde549e40534f8387b21b2ef7c533bcb2e2e613ab5793",
+  "source_retrieval_run": "C:\\Users\\DELL PRECISION 7550\\Downloads\\Tai_lieu_hoc_tap\\Ki_1_2026_2027\\VinAI\\GĐ_1\\Lab\\Lab_7\\K5-L3A-DAY07-NguyenQuynhTrang-2A202603477-RetrievalContext\\results\\retrieval-dev-v1",
+  "query_count": 17,
+  "summaries": [
+    {
+      "method": "dense_top3",
+      "queries": 17,
+      "errors": 0,
+      "context_evidence_rate_offline": {
+        "n": 9,
+        "N": 15,
+        "rate": 0.6
+      },
+      "hit1": 2,
+      "hit3": 9,
+      "mean_context_chars": 2551.0588235294117,
+      "mean_candidate_count": 3,
+      "mean_selected_count": 3,
+      "median_pack_ms": 0.012199991033412516
+    },
+    {
+      "method": "dense_top3_neighbors",
+      "queries": 17,
+      "errors": 0,
+      "context_evidence_rate_offline": {
+        "n": 10,
+        "N": 15,
+        "rate": 0.6666666666666666
+      },
+      "hit1": 2,
+      "hit3": 9,
+      "mean_context_chars": 5272.411764705882,
+      "mean_candidate_count": 7.117647058823529,
+      "mean_selected_count": 6.117647058823529,
+      "median_pack_ms": 0.025899993488565087
+    }
+  ],
+  "changes": {
+    "gained": [
+      "d7_dev_14"
+    ],
+    "lost": []
+  },
+  "service_cost_usd": 0,
+  "limitations": "Offline context coverage using saved real retrieval, not context sent to a model. No LLM token usage/billing, answer quality or abstention evaluation. Character budget includes citation headers and separators. Mean sizes over all 17 cases. Hit and context denominators use 15 answerable cases. Exact normalized evidence matching; equivalent evidence may need review. Pack timing excludes retrieval, model load and corpus setup."
+}

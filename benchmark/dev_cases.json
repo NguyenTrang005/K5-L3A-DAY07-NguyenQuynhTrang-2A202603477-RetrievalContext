@@ -1,0 +1,93 @@
+[
+  {
+    "id": "d7_dev_01",
+    "split": "dev",
+    "question": "Học tập được định nghĩa như thế nào?"
+  },
+  {
+    "id": "d7_dev_02",
+    "split": "dev",
+    "question": "Trong thí nghiệm Pavlov, bột thịt và phản ứng tiết nước bọt khi nhận bột thịt lần lượt đóng vai trò gì?"
+  },
+  {
+    "id": "d7_dev_03",
+    "split": "dev",
+    "question": "Khi kích thích không điều kiện không còn đi cùng kích thích có điều kiện, phản ứng có điều kiện thay đổi thế nào và quá trình này gọi là gì?"
+  },
+  {
+    "id": "d7_dev_04",
+    "split": "dev",
+    "question": "Một phản ứng đã bị dập tắt xuất hiện trở lại sau thời gian nghỉ được gọi là gì?"
+  },
+  {
+    "id": "d7_dev_05",
+    "split": "dev",
+    "question": "Stimulus discrimination là gì?"
+  },
+  {
+    "id": "d7_dev_06",
+    "split": "dev",
+    "question": "Theo chương 6 — Learning, củng cố âm tính làm tăng hay giảm hành vi và tác động đến kích thích như thế nào?",
+    "filter": {
+      "chapter": 6
+    }
+  },
+  {
+    "id": "d7_dev_07",
+    "split": "dev",
+    "question": "Thêm một kích thích khó chịu nhằm giảm hành vi là loại hình phạt nào?"
+  },
+  {
+    "id": "d7_dev_08",
+    "split": "dev",
+    "question": "Trong các lịch củng cố được trình bày, lịch nào tạo năng suất cao nhất và khó dập tắt nhất?"
+  },
+  {
+    "id": "d7_dev_09",
+    "split": "dev",
+    "question": "Ba loại mô hình học qua quan sát mà Bandura xác định là gì?"
+  },
+  {
+    "id": "d7_dev_10",
+    "split": "dev",
+    "question": "Theo chương 8 — Memory, ba chức năng cơ bản của trí nhớ là gì và mỗi chức năng làm gì?",
+    "filter": {
+      "chapter": 8
+    }
+  },
+  {
+    "id": "d7_dev_11",
+    "split": "dev",
+    "question": "Loại mã hóa nào xử lý từ ngữ và ý nghĩa của chúng?"
+  },
+  {
+    "id": "d7_dev_12",
+    "split": "dev",
+    "question": "Theo mô hình Atkinson–Shiffrin, thông tin đi qua ba giai đoạn lưu trữ nào theo thứ tự?"
+  },
+  {
+    "id": "d7_dev_13",
+    "split": "dev",
+    "question": "Trí nhớ tường minh còn có tên gọi nào và được chia thành những loại nào?"
+  },
+  {
+    "id": "d7_dev_14",
+    "split": "dev",
+    "question": "Thông tin cũ cản trở việc nhớ thông tin mới thuộc loại nhiễu nào? Chiều ngược lại gọi là gì?"
+  },
+  {
+    "id": "d7_dev_15",
+    "split": "dev",
+    "question": "Vì sao nên học thành nhiều buổi ngắn theo thời gian thay vì học dồn?"
+  },
+  {
+    "id": "d7_dev_16",
+    "split": "dev",
+    "question": "Theo phần tài liệu đã index, học giãn cách làm tăng chính xác bao nhiêu phần trăm điểm thi so với học dồn?"
+  },
+  {
+    "id": "d7_dev_17",
+    "split": "dev",
+    "question": "Mê cung trong thí nghiệm học tiềm ẩn của Tolman được mô tả trong tài liệu có tổng chiều dài chính xác bao nhiêu mét?"
+  }
+]

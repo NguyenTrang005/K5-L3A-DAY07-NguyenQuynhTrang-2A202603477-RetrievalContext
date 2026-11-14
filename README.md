@@ -1,5 +1,9 @@
 # Day 7 — Agentic RAG
 
+> **Bài làm cá nhân:** Nguyễn Quỳnh Trang — 2A202603477 — K5-L3A.
+>
+> [Báo cáo đã điền](report/individual/2A202603477_NguyenQuynhTrang.md) · [Cách chạy và tái lập](RUNNING.md) · [Kết quả agent test](results/agent-test-review-v1/COMPARISON.md) · [Benchmark](benchmark/README.md).
+
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.
